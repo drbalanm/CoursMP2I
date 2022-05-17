@@ -1,0 +1,1208 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_EXCMD	mixed	/number, pattern, mixed, or combineV2/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PATTERN_LENGTH_LIMIT	96	/0 for no limit/
+!_TAG_PROC_CWD	/home/mbalan/Documents/MesCours/2021-2022/cours/periode5/28-espace_probabilisé_fini/exemples/	//
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	5.9.0	/p5.9.20210905.0/
+$	qcm/qcm.js	/^				$: rootTag === 3 ? 0 : 1,$/;"	p	class:proc.g
+$	qcm/qcm.js	/^		$: 0,$/;"	p	class:_Scheduler_rawSpawn.proc
+$	qcm/qcm.js	/^		$: type,$/;"	p	class:_VirtualDom_pushPatch.patch
+$	qcm/qcm.js	/^var $author$project$Qcm$ComputeP = {$: 5};$/;"	p	class:$author$project$Qcm$ComputeP
+$	qcm/qcm.js	/^var $author$project$Qcm$Simulate = {$: 2};$/;"	p	class:$author$project$Qcm$Simulate
+$	qcm/qcm.js	/^var $elm$core$Dict$RBEmpty_elm_builtin = {$: -2};$/;"	p	class:$elm$core$Dict$RBEmpty_elm_builtin
+$	qcm/qcm.js	/^var $elm$core$Maybe$Nothing = {$: 1};$/;"	p	class:$elm$core$Maybe$Nothing
+$	qcm/qcm.js	/^var $rundis$elm_bootstrap$Bootstrap$Internal$Button$Block = {$: 2};$/;"	p	class:$rundis$elm_bootstrap$Bootstrap$Internal$Button$Block
+$	qcm/qcm.js	/^var _List_Nil = { $: 0 };$/;"	p	class:_List_Nil
+$	qcm/qcm.js	/^var _List_Nil_UNUSED = { $: '[]' };$/;"	p	class:_List_Nil_UNUSED
+$	qcm/qcm.js	/^var _Utils_Tuple0_UNUSED = { $: '#0' };$/;"	p	class:_Utils_Tuple0_UNUSED
+$author$project$Qcm$ChangeNbQuestions	qcm/qcm.js	/^var $author$project$Qcm$ChangeNbQuestions = function (a) {$/;"	f
+$author$project$Qcm$ChangeNiveau	qcm/qcm.js	/^var $author$project$Qcm$ChangeNiveau = function (a) {$/;"	f
+$author$project$Qcm$ChangeNote	qcm/qcm.js	/^var $author$project$Qcm$ChangeNote = function (a) {$/;"	f
+$author$project$Qcm$ChangeRange	qcm/qcm.js	/^var $author$project$Qcm$ChangeRange = function (a) {$/;"	f
+$author$project$Qcm$ComputeP	qcm/qcm.js	/^var $author$project$Qcm$ComputeP = {$: 5};$/;"	c
+$author$project$Qcm$ShowHistogram	qcm/qcm.js	/^var $author$project$Qcm$ShowHistogram = function (a) {$/;"	f
+$author$project$Qcm$Simulate	qcm/qcm.js	/^var $author$project$Qcm$Simulate = {$: 2};$/;"	c
+$author$project$Qcm$bernoulli	qcm/qcm.js	/^var $author$project$Qcm$bernoulli = function (p) {$/;"	f
+$author$project$Qcm$encodeH	qcm/qcm.js	/^var $author$project$Qcm$encodeH = function (d) {$/;"	f
+$author$project$Qcm$encodePlot	qcm/qcm.js	/^var $author$project$Qcm$encodePlot = function (vs) {$/;"	f
+$author$project$Qcm$form1	qcm/qcm.js	/^var $author$project$Qcm$form1 = function (model) {$/;"	f
+$author$project$Qcm$form2	qcm/qcm.js	/^var $author$project$Qcm$form2 = function (model) {$/;"	f
+$author$project$Qcm$histogram	qcm/qcm.js	/^var $author$project$Qcm$histogram = function (notes) {$/;"	f
+$author$project$Qcm$init	qcm/qcm.js	/^var $author$project$Qcm$init = function (_v0) {$/;"	f
+$author$project$Qcm$main	qcm/qcm.js	/^var $author$project$Qcm$main = $elm$browser$Browser$element($/;"	v
+$author$project$Qcm$nbSimulations	qcm/qcm.js	/^var $author$project$Qcm$nbSimulations = 5000;$/;"	v
+$author$project$Qcm$oneAnswer	qcm/qcm.js	/^var $author$project$Qcm$oneAnswer = function (p) {$/;"	f
+$author$project$Qcm$view	qcm/qcm.js	/^var $author$project$Qcm$view = function (model) {$/;"	f
+$elm$browser$Browser$External	qcm/qcm.js	/^var $elm$browser$Browser$External = function (a) {$/;"	f
+$elm$browser$Browser$Internal	qcm/qcm.js	/^var $elm$browser$Browser$Internal = function (a) {$/;"	f
+$elm$browser$Browser$element	qcm/qcm.js	/^var $elm$browser$Browser$element = _Browser_element;$/;"	v
+$elm$core$Array$Leaf	qcm/qcm.js	/^var $elm$core$Array$Leaf = function (a) {$/;"	f
+$elm$core$Array$SubTree	qcm/qcm.js	/^var $elm$core$Array$SubTree = function (a) {$/;"	f
+$elm$core$Array$branchFactor	qcm/qcm.js	/^var $elm$core$Array$branchFactor = 32;$/;"	v
+$elm$core$Array$shiftStep	qcm/qcm.js	/^var $elm$core$Array$shiftStep = $elm$core$Basics$ceiling($/;"	v
+$elm$core$Array$toList	qcm/qcm.js	/^var $elm$core$Array$toList = function (array) {$/;"	f
+$elm$core$Basics$EQ	qcm/qcm.js	/^var $elm$core$Basics$EQ = 1;$/;"	v
+$elm$core$Basics$False	qcm/qcm.js	/^var $elm$core$Basics$False = 1;$/;"	v
+$elm$core$Basics$GT	qcm/qcm.js	/^var $elm$core$Basics$GT = 2;$/;"	v
+$elm$core$Basics$LT	qcm/qcm.js	/^var $elm$core$Basics$LT = 0;$/;"	v
+$elm$core$Basics$True	qcm/qcm.js	/^var $elm$core$Basics$True = 0;$/;"	v
+$elm$core$Basics$abs	qcm/qcm.js	/^var $elm$core$Basics$abs = function (n) {$/;"	f
+$elm$core$Basics$add	qcm/qcm.js	/^var $elm$core$Basics$add = _Basics_add;$/;"	v
+$elm$core$Basics$and	qcm/qcm.js	/^var $elm$core$Basics$and = _Basics_and;$/;"	v
+$elm$core$Basics$append	qcm/qcm.js	/^var $elm$core$Basics$append = _Utils_append;$/;"	v
+$elm$core$Basics$ceiling	qcm/qcm.js	/^var $elm$core$Basics$ceiling = _Basics_ceiling;$/;"	v
+$elm$core$Basics$compare	qcm/qcm.js	/^var $elm$core$Basics$compare = _Utils_compare;$/;"	v
+$elm$core$Basics$eq	qcm/qcm.js	/^var $elm$core$Basics$eq = _Utils_equal;$/;"	v
+$elm$core$Basics$fdiv	qcm/qcm.js	/^var $elm$core$Basics$fdiv = _Basics_fdiv;$/;"	v
+$elm$core$Basics$floor	qcm/qcm.js	/^var $elm$core$Basics$floor = _Basics_floor;$/;"	v
+$elm$core$Basics$ge	qcm/qcm.js	/^var $elm$core$Basics$ge = _Utils_ge;$/;"	v
+$elm$core$Basics$gt	qcm/qcm.js	/^var $elm$core$Basics$gt = _Utils_gt;$/;"	v
+$elm$core$Basics$identity	qcm/qcm.js	/^var $elm$core$Basics$identity = function (x) {$/;"	f
+$elm$core$Basics$idiv	qcm/qcm.js	/^var $elm$core$Basics$idiv = _Basics_idiv;$/;"	v
+$elm$core$Basics$le	qcm/qcm.js	/^var $elm$core$Basics$le = _Utils_le;$/;"	v
+$elm$core$Basics$lt	qcm/qcm.js	/^var $elm$core$Basics$lt = _Utils_lt;$/;"	v
+$elm$core$Basics$mul	qcm/qcm.js	/^var $elm$core$Basics$mul = _Basics_mul;$/;"	v
+$elm$core$Basics$negate	qcm/qcm.js	/^var $elm$core$Basics$negate = function (n) {$/;"	f
+$elm$core$Basics$never	qcm/qcm.js	/^var $elm$core$Basics$never = function (_v0) {$/;"	f
+$elm$core$Basics$or	qcm/qcm.js	/^var $elm$core$Basics$or = _Basics_or;$/;"	v
+$elm$core$Basics$remainderBy	qcm/qcm.js	/^var $elm$core$Basics$remainderBy = _Basics_remainderBy;$/;"	v
+$elm$core$Basics$sub	qcm/qcm.js	/^var $elm$core$Basics$sub = _Basics_sub;$/;"	v
+$elm$core$Bitwise$and	qcm/qcm.js	/^var $elm$core$Bitwise$and = _Bitwise_and;$/;"	v
+$elm$core$Bitwise$shiftRightZfBy	qcm/qcm.js	/^var $elm$core$Bitwise$shiftRightZfBy = _Bitwise_shiftRightZfBy;$/;"	v
+$elm$core$Bitwise$xor	qcm/qcm.js	/^var $elm$core$Bitwise$xor = _Bitwise_xor;$/;"	v
+$elm$core$Char$isAlpha	qcm/qcm.js	/^var $elm$core$Char$isAlpha = function (_char) {$/;"	f
+$elm$core$Char$isAlphaNum	qcm/qcm.js	/^var $elm$core$Char$isAlphaNum = function (_char) {$/;"	f
+$elm$core$Char$isDigit	qcm/qcm.js	/^var $elm$core$Char$isDigit = function (_char) {$/;"	f
+$elm$core$Char$isLower	qcm/qcm.js	/^var $elm$core$Char$isLower = function (_char) {$/;"	f
+$elm$core$Char$isUpper	qcm/qcm.js	/^var $elm$core$Char$isUpper = function (_char) {$/;"	f
+$elm$core$Dict$Black	qcm/qcm.js	/^var $elm$core$Dict$Black = 1;$/;"	v
+$elm$core$Dict$RBEmpty_elm_builtin	qcm/qcm.js	/^var $elm$core$Dict$RBEmpty_elm_builtin = {$: -2};$/;"	c
+$elm$core$Dict$Red	qcm/qcm.js	/^var $elm$core$Dict$Red = 0;$/;"	v
+$elm$core$Dict$empty	qcm/qcm.js	/^var $elm$core$Dict$empty = $elm$core$Dict$RBEmpty_elm_builtin;$/;"	v
+$elm$core$Dict$fromList	qcm/qcm.js	/^var $elm$core$Dict$fromList = function (assocs) {$/;"	f
+$elm$core$Dict$getMin	qcm/qcm.js	/^var $elm$core$Dict$getMin = function (dict) {$/;"	f
+$elm$core$Dict$keys	qcm/qcm.js	/^var $elm$core$Dict$keys = function (dict) {$/;"	f
+$elm$core$Dict$moveRedLeft	qcm/qcm.js	/^var $elm$core$Dict$moveRedLeft = function (dict) {$/;"	f
+$elm$core$Dict$moveRedRight	qcm/qcm.js	/^var $elm$core$Dict$moveRedRight = function (dict) {$/;"	f
+$elm$core$Dict$removeMin	qcm/qcm.js	/^var $elm$core$Dict$removeMin = function (dict) {$/;"	f
+$elm$core$Dict$toList	qcm/qcm.js	/^var $elm$core$Dict$toList = function (dict) {$/;"	f
+$elm$core$Elm$JsArray$empty	qcm/qcm.js	/^var $elm$core$Elm$JsArray$empty = _JsArray_empty;$/;"	v
+$elm$core$Elm$JsArray$foldr	qcm/qcm.js	/^var $elm$core$Elm$JsArray$foldr = _JsArray_foldr;$/;"	v
+$elm$core$Elm$JsArray$initialize	qcm/qcm.js	/^var $elm$core$Elm$JsArray$initialize = _JsArray_initialize;$/;"	v
+$elm$core$Elm$JsArray$initializeFromList	qcm/qcm.js	/^var $elm$core$Elm$JsArray$initializeFromList = _JsArray_initializeFromList;$/;"	v
+$elm$core$List$cons	qcm/qcm.js	/^var $elm$core$List$cons = _List_cons;$/;"	v
+$elm$core$List$length	qcm/qcm.js	/^var $elm$core$List$length = function (xs) {$/;"	f
+$elm$core$List$map2	qcm/qcm.js	/^var $elm$core$List$map2 = _List_map2;$/;"	v
+$elm$core$List$product	qcm/qcm.js	/^var $elm$core$List$product = function (numbers) {$/;"	f
+$elm$core$List$reverse	qcm/qcm.js	/^var $elm$core$List$reverse = function (list) {$/;"	f
+$elm$core$List$sum	qcm/qcm.js	/^var $elm$core$List$sum = function (numbers) {$/;"	f
+$elm$core$Maybe$Just	qcm/qcm.js	/^var $elm$core$Maybe$Just = function (a) {$/;"	f
+$elm$core$Maybe$Nothing	qcm/qcm.js	/^var $elm$core$Maybe$Nothing = {$: 1};$/;"	c
+$elm$core$Maybe$isJust	qcm/qcm.js	/^var $elm$core$Maybe$isJust = function (maybe) {$/;"	f
+$elm$core$Platform$Cmd$none	qcm/qcm.js	/^var $elm$core$Platform$Cmd$none = $elm$core$Platform$Cmd$batch(_List_Nil);$/;"	v
+$elm$core$Platform$Sub$none	qcm/qcm.js	/^var $elm$core$Platform$Sub$none = $elm$core$Platform$Sub$batch(_List_Nil);$/;"	v
+$elm$core$Platform$sendToApp	qcm/qcm.js	/^var $elm$core$Platform$sendToApp = _Platform_sendToApp;$/;"	v
+$elm$core$Result$Err	qcm/qcm.js	/^var $elm$core$Result$Err = function (a) {$/;"	f
+$elm$core$Result$Ok	qcm/qcm.js	/^var $elm$core$Result$Ok = function (a) {$/;"	f
+$elm$core$Result$isOk	qcm/qcm.js	/^var $elm$core$Result$isOk = function (result) {$/;"	f
+$elm$core$Set$toList	qcm/qcm.js	/^var $elm$core$Set$toList = function (_v0) {$/;"	f
+$elm$core$String$all	qcm/qcm.js	/^var $elm$core$String$all = _String_all;$/;"	v
+$elm$core$String$contains	qcm/qcm.js	/^var $elm$core$String$contains = _String_contains;$/;"	v
+$elm$core$String$indexes	qcm/qcm.js	/^var $elm$core$String$indexes = _String_indexes;$/;"	v
+$elm$core$String$isEmpty	qcm/qcm.js	/^var $elm$core$String$isEmpty = function (string) {$/;"	f
+$elm$core$String$slice	qcm/qcm.js	/^var $elm$core$String$slice = _String_slice;$/;"	v
+$elm$core$String$startsWith	qcm/qcm.js	/^var $elm$core$String$startsWith = _String_startsWith;$/;"	v
+$elm$core$Task$andThen	qcm/qcm.js	/^var $elm$core$Task$andThen = _Scheduler_andThen;$/;"	v
+$elm$core$Task$init	qcm/qcm.js	/^var $elm$core$Task$init = $elm$core$Task$succeed(0);$/;"	v
+$elm$core$Task$sequence	qcm/qcm.js	/^var $elm$core$Task$sequence = function (tasks) {$/;"	f
+$elm$core$Tuple$first	qcm/qcm.js	/^var $elm$core$Tuple$first = function (_v0) {$/;"	f
+$elm$core$Tuple$second	qcm/qcm.js	/^var $elm$core$Tuple$second = function (_v0) {$/;"	f
+$elm$html$Html$Attributes$class	qcm/qcm.js	/^var $elm$html$Html$Attributes$class = $elm$html$Html$Attributes$stringProperty('className');$/;"	v
+$elm$html$Html$Attributes$classList	qcm/qcm.js	/^var $elm$html$Html$Attributes$classList = function (classes) {$/;"	f
+$elm$html$Html$Attributes$disabled	qcm/qcm.js	/^var $elm$html$Html$Attributes$disabled = $elm$html$Html$Attributes$boolProperty('disabled');$/;"	v
+$elm$html$Html$Attributes$href	qcm/qcm.js	/^var $elm$html$Html$Attributes$href = function (url) {$/;"	f
+$elm$html$Html$Attributes$id	qcm/qcm.js	/^var $elm$html$Html$Attributes$id = $elm$html$Html$Attributes$stringProperty('id');$/;"	v
+$elm$html$Html$Attributes$placeholder	qcm/qcm.js	/^var $elm$html$Html$Attributes$placeholder = $elm$html$Html$Attributes$stringProperty('placeholde/;"	v
+$elm$html$Html$Attributes$readonly	qcm/qcm.js	/^var $elm$html$Html$Attributes$readonly = $elm$html$Html$Attributes$boolProperty('readOnly');$/;"	v
+$elm$html$Html$Attributes$rel	qcm/qcm.js	/^var $elm$html$Html$Attributes$rel = _VirtualDom_attribute('rel');$/;"	v
+$elm$html$Html$Attributes$type_	qcm/qcm.js	/^var $elm$html$Html$Attributes$type_ = $elm$html$Html$Attributes$stringProperty('type');$/;"	v
+$elm$html$Html$Attributes$value	qcm/qcm.js	/^var $elm$html$Html$Attributes$value = $elm$html$Html$Attributes$stringProperty('value');$/;"	v
+$elm$html$Html$Events$alwaysStop	qcm/qcm.js	/^var $elm$html$Html$Events$alwaysStop = function (x) {$/;"	f
+$elm$html$Html$Events$onInput	qcm/qcm.js	/^var $elm$html$Html$Events$onInput = function (tagger) {$/;"	f
+$elm$html$Html$button	qcm/qcm.js	/^var $elm$html$Html$button = _VirtualDom_node('button');$/;"	v
+$elm$html$Html$div	qcm/qcm.js	/^var $elm$html$Html$div = _VirtualDom_node('div');$/;"	v
+$elm$html$Html$form	qcm/qcm.js	/^var $elm$html$Html$form = _VirtualDom_node('form');$/;"	v
+$elm$html$Html$input	qcm/qcm.js	/^var $elm$html$Html$input = _VirtualDom_node('input');$/;"	v
+$elm$html$Html$label	qcm/qcm.js	/^var $elm$html$Html$label = _VirtualDom_node('label');$/;"	v
+$elm$html$Html$text	qcm/qcm.js	/^var $elm$html$Html$text = $elm$virtual_dom$VirtualDom$text;$/;"	v
+$elm$json$Json$Decode$OneOf	qcm/qcm.js	/^var $elm$json$Json$Decode$OneOf = function (a) {$/;"	f
+$elm$json$Json$Decode$errorToString	qcm/qcm.js	/^var $elm$json$Json$Decode$errorToString = function (error) {$/;"	f
+$elm$json$Json$Decode$field	qcm/qcm.js	/^var $elm$json$Json$Decode$field = _Json_decodeField;$/;"	v
+$elm$json$Json$Decode$indent	qcm/qcm.js	/^var $elm$json$Json$Decode$indent = function (str) {$/;"	f
+$elm$json$Json$Decode$map	qcm/qcm.js	/^var $elm$json$Json$Decode$map = _Json_map1;$/;"	v
+$elm$json$Json$Decode$map2	qcm/qcm.js	/^var $elm$json$Json$Decode$map2 = _Json_map2;$/;"	v
+$elm$json$Json$Decode$string	qcm/qcm.js	/^var $elm$json$Json$Decode$string = _Json_decodeString;$/;"	v
+$elm$json$Json$Encode$encode	qcm/qcm.js	/^var $elm$json$Json$Encode$encode = _Json_encode;$/;"	v
+$elm$json$Json$Encode$object	qcm/qcm.js	/^var $elm$json$Json$Encode$object = function (pairs) {$/;"	f
+$elm$random$Random$constant	qcm/qcm.js	/^var $elm$random$Random$constant = function (value) {$/;"	f
+$elm$random$Random$initialSeed	qcm/qcm.js	/^var $elm$random$Random$initialSeed = function (x) {$/;"	f
+$elm$random$Random$next	qcm/qcm.js	/^var $elm$random$Random$next = function (_v0) {$/;"	f
+$elm$random$Random$peel	qcm/qcm.js	/^var $elm$random$Random$peel = function (_v0) {$/;"	f
+$elm$time$Time$Name	qcm/qcm.js	/^var $elm$time$Time$Name = function (a) {$/;"	f
+$elm$time$Time$Offset	qcm/qcm.js	/^var $elm$time$Time$Offset = function (a) {$/;"	f
+$elm$time$Time$customZone	qcm/qcm.js	/^var $elm$time$Time$customZone = $elm$time$Time$Zone;$/;"	v
+$elm$time$Time$posixToMillis	qcm/qcm.js	/^var $elm$time$Time$posixToMillis = function (_v0) {$/;"	f
+$elm$url$Url$Http	qcm/qcm.js	/^var $elm$url$Url$Http = 0;$/;"	v
+$elm$url$Url$Https	qcm/qcm.js	/^var $elm$url$Url$Https = 1;$/;"	v
+$elm$url$Url$fromString	qcm/qcm.js	/^var $elm$url$Url$fromString = function (str) {$/;"	f
+$elm$virtual_dom$VirtualDom$MayPreventDefault	qcm/qcm.js	/^var $elm$virtual_dom$VirtualDom$MayPreventDefault = function (a) {$/;"	f
+$elm$virtual_dom$VirtualDom$MayStopPropagation	qcm/qcm.js	/^var $elm$virtual_dom$VirtualDom$MayStopPropagation = function (a) {$/;"	f
+$elm$virtual_dom$VirtualDom$node	qcm/qcm.js	/^var $elm$virtual_dom$VirtualDom$node = function (tag) {$/;"	f
+$elm$virtual_dom$VirtualDom$on	qcm/qcm.js	/^var $elm$virtual_dom$VirtualDom$on = _VirtualDom_on;$/;"	v
+$elm$virtual_dom$VirtualDom$toHandlerInt	qcm/qcm.js	/^var $elm$virtual_dom$VirtualDom$toHandlerInt = function (handler) {$/;"	f
+$elm_explorations$markdown$Markdown$defaultOptions	qcm/qcm.js	/^var $elm_explorations$markdown$Markdown$defaultOptions = {$/;"	c
+$elm_explorations$markdown$Markdown$toHtml	qcm/qcm.js	/^var $elm_explorations$markdown$Markdown$toHtml = $elm_explorations$markdown$Markdown$toHtmlWith(/;"	v
+$elm_explorations$markdown$Markdown$toHtmlWith	qcm/qcm.js	/^var $elm_explorations$markdown$Markdown$toHtmlWith = _Markdown_toHtml;$/;"	v
+$rundis$elm_bootstrap$Bootstrap$Button$attrs	qcm/qcm.js	/^var $rundis$elm_bootstrap$Bootstrap$Button$attrs = function (attrs_) {$/;"	f
+$rundis$elm_bootstrap$Bootstrap$Button$block	qcm/qcm.js	/^var $rundis$elm_bootstrap$Bootstrap$Button$block = $rundis$elm_bootstrap$Bootstrap$Internal$Butt/;"	v
+$rundis$elm_bootstrap$Bootstrap$Button$onClick	qcm/qcm.js	/^var $rundis$elm_bootstrap$Bootstrap$Button$onClick = function (message) {$/;"	f
+$rundis$elm_bootstrap$Bootstrap$Form$FormInternal$Danger	qcm/qcm.js	/^var $rundis$elm_bootstrap$Bootstrap$Form$FormInternal$Danger = 1;$/;"	v
+$rundis$elm_bootstrap$Bootstrap$Form$FormInternal$Success	qcm/qcm.js	/^var $rundis$elm_bootstrap$Bootstrap$Form$FormInternal$Success = 0;$/;"	v
+$rundis$elm_bootstrap$Bootstrap$Form$FormInternal$validationToString	qcm/qcm.js	/^var $rundis$elm_bootstrap$Bootstrap$Form$FormInternal$validationToString = function (validation)/;"	f
+$rundis$elm_bootstrap$Bootstrap$Form$Input$Number	qcm/qcm.js	/^var $rundis$elm_bootstrap$Bootstrap$Form$Input$Number = 7;$/;"	v
+$rundis$elm_bootstrap$Bootstrap$Form$Input$OnInput	qcm/qcm.js	/^var $rundis$elm_bootstrap$Bootstrap$Form$Input$OnInput = function (a) {$/;"	f
+$rundis$elm_bootstrap$Bootstrap$Form$Input$Text	qcm/qcm.js	/^var $rundis$elm_bootstrap$Bootstrap$Form$Input$Text = 0;$/;"	v
+$rundis$elm_bootstrap$Bootstrap$Form$Input$Type	qcm/qcm.js	/^var $rundis$elm_bootstrap$Bootstrap$Form$Input$Type = function (a) {$/;"	f
+$rundis$elm_bootstrap$Bootstrap$Form$Input$Validation	qcm/qcm.js	/^var $rundis$elm_bootstrap$Bootstrap$Form$Input$Validation = function (a) {$/;"	f
+$rundis$elm_bootstrap$Bootstrap$Form$Input$Value	qcm/qcm.js	/^var $rundis$elm_bootstrap$Bootstrap$Form$Input$Value = function (a) {$/;"	f
+$rundis$elm_bootstrap$Bootstrap$Form$Input$defaultOptions	qcm/qcm.js	/^var $rundis$elm_bootstrap$Bootstrap$Form$Input$defaultOptions = {aJ: _List_Nil, aW: false, ae: $/;"	c
+$rundis$elm_bootstrap$Bootstrap$Form$Input$number	qcm/qcm.js	/^var $rundis$elm_bootstrap$Bootstrap$Form$Input$number = $rundis$elm_bootstrap$Bootstrap$Form$Inp/;"	v
+$rundis$elm_bootstrap$Bootstrap$Form$Input$onInput	qcm/qcm.js	/^var $rundis$elm_bootstrap$Bootstrap$Form$Input$onInput = function (toMsg) {$/;"	f
+$rundis$elm_bootstrap$Bootstrap$Form$Input$sizeAttribute	qcm/qcm.js	/^var $rundis$elm_bootstrap$Bootstrap$Form$Input$sizeAttribute = function (size) {$/;"	f
+$rundis$elm_bootstrap$Bootstrap$Form$Input$text	qcm/qcm.js	/^var $rundis$elm_bootstrap$Bootstrap$Form$Input$text = $rundis$elm_bootstrap$Bootstrap$Form$Input/;"	v
+$rundis$elm_bootstrap$Bootstrap$Form$Input$toAttributes	qcm/qcm.js	/^var $rundis$elm_bootstrap$Bootstrap$Form$Input$toAttributes = function (modifiers) {$/;"	f
+$rundis$elm_bootstrap$Bootstrap$Form$Input$typeAttribute	qcm/qcm.js	/^var $rundis$elm_bootstrap$Bootstrap$Form$Input$typeAttribute = function (inputType) {$/;"	f
+$rundis$elm_bootstrap$Bootstrap$Form$Input$validationAttribute	qcm/qcm.js	/^var $rundis$elm_bootstrap$Bootstrap$Form$Input$validationAttribute = function (validation) {$/;"	f
+$rundis$elm_bootstrap$Bootstrap$Form$Input$value	qcm/qcm.js	/^var $rundis$elm_bootstrap$Bootstrap$Form$Input$value = function (value_) {$/;"	f
+$rundis$elm_bootstrap$Bootstrap$Form$Input$view	qcm/qcm.js	/^var $rundis$elm_bootstrap$Bootstrap$Form$Input$view = function (_v0) {$/;"	f
+$rundis$elm_bootstrap$Bootstrap$Form$defaultOptions	qcm/qcm.js	/^var $rundis$elm_bootstrap$Bootstrap$Form$defaultOptions = {aJ: _List_Nil};$/;"	c
+$rundis$elm_bootstrap$Bootstrap$Form$renderCol	qcm/qcm.js	/^var $rundis$elm_bootstrap$Bootstrap$Form$renderCol = function (_v0) {$/;"	f
+$rundis$elm_bootstrap$Bootstrap$Form$toAttributes	qcm/qcm.js	/^var $rundis$elm_bootstrap$Bootstrap$Form$toAttributes = function (modifiers) {$/;"	f
+$rundis$elm_bootstrap$Bootstrap$General$Internal$XS	qcm/qcm.js	/^var $rundis$elm_bootstrap$Bootstrap$General$Internal$XS = 0;$/;"	v
+$rundis$elm_bootstrap$Bootstrap$General$Internal$hAlignClass	qcm/qcm.js	/^var $rundis$elm_bootstrap$Bootstrap$General$Internal$hAlignClass = function (_v0) {$/;"	f
+$rundis$elm_bootstrap$Bootstrap$General$Internal$horizontalAlignOption	qcm/qcm.js	/^var $rundis$elm_bootstrap$Bootstrap$General$Internal$horizontalAlignOption = function (align) {$/;"	f
+$rundis$elm_bootstrap$Bootstrap$General$Internal$screenSizeOption	qcm/qcm.js	/^var $rundis$elm_bootstrap$Bootstrap$General$Internal$screenSizeOption = function (size) {$/;"	f
+$rundis$elm_bootstrap$Bootstrap$Grid$Internal$Col	qcm/qcm.js	/^var $rundis$elm_bootstrap$Bootstrap$Grid$Internal$Col = 0;$/;"	v
+$rundis$elm_bootstrap$Bootstrap$Grid$Internal$colAttributes	qcm/qcm.js	/^var $rundis$elm_bootstrap$Bootstrap$Grid$Internal$colAttributes = function (modifiers) {$/;"	f
+$rundis$elm_bootstrap$Bootstrap$Grid$Internal$colWidthClass	qcm/qcm.js	/^var $rundis$elm_bootstrap$Bootstrap$Grid$Internal$colWidthClass = function (_v0) {$/;"	f
+$rundis$elm_bootstrap$Bootstrap$Grid$Internal$colWidthsToAttributes	qcm/qcm.js	/^var $rundis$elm_bootstrap$Bootstrap$Grid$Internal$colWidthsToAttributes = function (widths) {$/;"	f
+$rundis$elm_bootstrap$Bootstrap$Grid$Internal$columnCountOption	qcm/qcm.js	/^var $rundis$elm_bootstrap$Bootstrap$Grid$Internal$columnCountOption = function (size) {$/;"	f
+$rundis$elm_bootstrap$Bootstrap$Grid$Internal$defaultColOptions	qcm/qcm.js	/^var $rundis$elm_bootstrap$Bootstrap$Grid$Internal$defaultColOptions = {aC: $elm$core$Maybe$Nothi/;"	c
+$rundis$elm_bootstrap$Bootstrap$Grid$Internal$defaultRowOptions	qcm/qcm.js	/^var $rundis$elm_bootstrap$Bootstrap$Grid$Internal$defaultRowOptions = {aJ: _List_Nil, aY: $elm$c/;"	c
+$rundis$elm_bootstrap$Bootstrap$Grid$Internal$hAlignsToAttributes	qcm/qcm.js	/^var $rundis$elm_bootstrap$Bootstrap$Grid$Internal$hAlignsToAttributes = function (aligns) {$/;"	f
+$rundis$elm_bootstrap$Bootstrap$Grid$Internal$moveCountOption	qcm/qcm.js	/^var $rundis$elm_bootstrap$Bootstrap$Grid$Internal$moveCountOption = function (size) {$/;"	f
+$rundis$elm_bootstrap$Bootstrap$Grid$Internal$offsetClass	qcm/qcm.js	/^var $rundis$elm_bootstrap$Bootstrap$Grid$Internal$offsetClass = function (_v0) {$/;"	f
+$rundis$elm_bootstrap$Bootstrap$Grid$Internal$offsetCountOption	qcm/qcm.js	/^var $rundis$elm_bootstrap$Bootstrap$Grid$Internal$offsetCountOption = function (size) {$/;"	f
+$rundis$elm_bootstrap$Bootstrap$Grid$Internal$offsetsToAttributes	qcm/qcm.js	/^var $rundis$elm_bootstrap$Bootstrap$Grid$Internal$offsetsToAttributes = function (offsets) {$/;"	f
+$rundis$elm_bootstrap$Bootstrap$Grid$Internal$orderColOption	qcm/qcm.js	/^var $rundis$elm_bootstrap$Bootstrap$Grid$Internal$orderColOption = function (size) {$/;"	f
+$rundis$elm_bootstrap$Bootstrap$Grid$Internal$orderToAttributes	qcm/qcm.js	/^var $rundis$elm_bootstrap$Bootstrap$Grid$Internal$orderToAttributes = function (orders) {$/;"	f
+$rundis$elm_bootstrap$Bootstrap$Grid$Internal$pullsToAttributes	qcm/qcm.js	/^var $rundis$elm_bootstrap$Bootstrap$Grid$Internal$pullsToAttributes = function (pulls) {$/;"	f
+$rundis$elm_bootstrap$Bootstrap$Grid$Internal$pushesToAttributes	qcm/qcm.js	/^var $rundis$elm_bootstrap$Bootstrap$Grid$Internal$pushesToAttributes = function (pushes) {$/;"	f
+$rundis$elm_bootstrap$Bootstrap$Grid$Internal$rowAttributes	qcm/qcm.js	/^var $rundis$elm_bootstrap$Bootstrap$Grid$Internal$rowAttributes = function (modifiers) {$/;"	f
+$rundis$elm_bootstrap$Bootstrap$Grid$Internal$screenSizeToPartialString	qcm/qcm.js	/^var $rundis$elm_bootstrap$Bootstrap$Grid$Internal$screenSizeToPartialString = function (screenSi/;"	f
+$rundis$elm_bootstrap$Bootstrap$Grid$Internal$verticalAlignOption	qcm/qcm.js	/^var $rundis$elm_bootstrap$Bootstrap$Grid$Internal$verticalAlignOption = function (align) {$/;"	f
+$rundis$elm_bootstrap$Bootstrap$Internal$Button$Attrs	qcm/qcm.js	/^var $rundis$elm_bootstrap$Bootstrap$Internal$Button$Attrs = function (a) {$/;"	f
+$rundis$elm_bootstrap$Bootstrap$Internal$Button$Block	qcm/qcm.js	/^var $rundis$elm_bootstrap$Bootstrap$Internal$Button$Block = {$: 2};$/;"	c
+$rundis$elm_bootstrap$Bootstrap$Internal$Button$Coloring	qcm/qcm.js	/^var $rundis$elm_bootstrap$Bootstrap$Internal$Button$Coloring = function (a) {$/;"	f
+$rundis$elm_bootstrap$Bootstrap$Internal$Button$Primary	qcm/qcm.js	/^var $rundis$elm_bootstrap$Bootstrap$Internal$Button$Primary = 0;$/;"	v
+$rundis$elm_bootstrap$Bootstrap$Internal$Button$Roled	qcm/qcm.js	/^var $rundis$elm_bootstrap$Bootstrap$Internal$Button$Roled = function (a) {$/;"	f
+$rundis$elm_bootstrap$Bootstrap$Internal$Button$buttonAttributes	qcm/qcm.js	/^var $rundis$elm_bootstrap$Bootstrap$Internal$Button$buttonAttributes = function (modifiers) {$/;"	f
+$rundis$elm_bootstrap$Bootstrap$Internal$Button$defaultOptions	qcm/qcm.js	/^var $rundis$elm_bootstrap$Bootstrap$Internal$Button$defaultOptions = {aJ: _List_Nil, aM: false, /;"	c
+$rundis$elm_bootstrap$Bootstrap$Internal$Button$roleClass	qcm/qcm.js	/^var $rundis$elm_bootstrap$Bootstrap$Internal$Button$roleClass = function (role) {$/;"	f
+$rundis$elm_bootstrap$Bootstrap$Internal$Text$textAlignClass	qcm/qcm.js	/^var $rundis$elm_bootstrap$Bootstrap$Internal$Text$textAlignClass = function (_v0) {$/;"	f
+$rundis$elm_bootstrap$Bootstrap$Internal$Text$textAlignDirOption	qcm/qcm.js	/^var $rundis$elm_bootstrap$Bootstrap$Internal$Text$textAlignDirOption = function (dir) {$/;"	f
+0	qcm/elm-stuff/generated-code/elm-community/elm-test/0.19.1-revision7/elm.json	/^        "src",$/;"	s	array:source-directories
+0	qcm/elm.json	/^        "src"$/;"	s	array:source-directories
+1	qcm/elm-stuff/generated-code/elm-community/elm-test/0.19.1-revision7/elm.json	/^        "..\/..\/..\/..\/..\/..\/..\/..\/..\/..\/..\/..\/..\/..\/..\/usr\/lib\/node_modules\/elm/;"	s	array:source-directories
+2	qcm/elm-stuff/generated-code/elm-community/elm-test/0.19.1-revision7/elm.json	/^        "..\/..\/..\/..\/..\/src"$/;"	s	array:source-directories
+A	qcm/qcm.js	/^			A: entry$/;"	p	class:entry.s.s
+A2	qcm/qcm.js	/^function A2(fun, a, b) {$/;"	f
+A3	qcm/qcm.js	/^function A3(fun, a, b, c) {$/;"	f
+A4	qcm/qcm.js	/^function A4(fun, a, b, c, d) {$/;"	f
+A5	qcm/qcm.js	/^function A5(fun, a, b, c, d, e) {$/;"	f
+A6	qcm/qcm.js	/^function A6(fun, a, b, c, d, e, f) {$/;"	f
+A7	qcm/qcm.js	/^function A7(fun, a, b, c, d, e, f, g) {$/;"	f
+A8	qcm/qcm.js	/^function A8(fun, a, b, c, d, e, f, g, h) {$/;"	f
+A9	qcm/qcm.js	/^function A9(fun, a, b, c, d, e, f, g, h, i) {$/;"	f
+AnonymousFunctiond3436d810100	qcm/qcm.js	/^  return F(2, fun, function(a) { return function(b) { return fun(a,b); }; })$/;"	f	function:F2
+AnonymousFunctiond3436d810200	qcm/qcm.js	/^  return F(2, fun, function(a) { return function(b) { return fun(a,b); }; })$/;"	f	function:F2.AnonymousFunctiond3436d810100
+AnonymousFunctiond3436d810300	qcm/qcm.js	/^  return F(3, fun, function(a) {$/;"	f	function:F3
+AnonymousFunctiond3436d810400	qcm/qcm.js	/^    return function(b) { return function(c) { return fun(a, b, c); }; };$/;"	f	function:F3.AnonymousFunctiond3436d810300
+AnonymousFunctiond3436d810500	qcm/qcm.js	/^    return function(b) { return function(c) { return fun(a, b, c); }; };$/;"	f	function:F3.AnonymousFunctiond3436d810300.AnonymousFunctiond3436d810400
+AnonymousFunctiond3436d810600	qcm/qcm.js	/^  return F(4, fun, function(a) { return function(b) { return function(c) {$/;"	f	function:F4
+AnonymousFunctiond3436d810700	qcm/qcm.js	/^  return F(4, fun, function(a) { return function(b) { return function(c) {$/;"	f	function:F4.AnonymousFunctiond3436d810600
+AnonymousFunctiond3436d810800	qcm/qcm.js	/^  return F(4, fun, function(a) { return function(b) { return function(c) {$/;"	f	function:F4.AnonymousFunctiond3436d810600.AnonymousFunctiond3436d810700
+AnonymousFunctiond3436d810900	qcm/qcm.js	/^    return function(d) { return fun(a, b, c, d); }; }; };$/;"	f	function:F4.AnonymousFunctiond3436d810600.AnonymousFunctiond3436d810700.AnonymousFunctiond3436d810800
+AnonymousFunctiond3436d810a00	qcm/qcm.js	/^  return F(5, fun, function(a) { return function(b) { return function(c) {$/;"	f	function:F5
+AnonymousFunctiond3436d810b00	qcm/qcm.js	/^  return F(5, fun, function(a) { return function(b) { return function(c) {$/;"	f	function:F5.AnonymousFunctiond3436d810a00
+AnonymousFunctiond3436d810c00	qcm/qcm.js	/^  return F(5, fun, function(a) { return function(b) { return function(c) {$/;"	f	function:F5.AnonymousFunctiond3436d810a00.AnonymousFunctiond3436d810b00
+AnonymousFunctiond3436d810d00	qcm/qcm.js	/^    return function(d) { return function(e) { return fun(a, b, c, d, e); }; }; }; };$/;"	f	function:F5.AnonymousFunctiond3436d810a00.AnonymousFunctiond3436d810b00.AnonymousFunctiond3436d810c00
+AnonymousFunctiond3436d810e00	qcm/qcm.js	/^    return function(d) { return function(e) { return fun(a, b, c, d, e); }; }; }; };$/;"	f	function:F5.AnonymousFunctiond3436d810a00.AnonymousFunctiond3436d810b00.AnonymousFunctiond3436d810c00.AnonymousFunctiond3436d810d00
+AnonymousFunctiond3436d810f00	qcm/qcm.js	/^  return F(6, fun, function(a) { return function(b) { return function(c) {$/;"	f	function:F6
+AnonymousFunctiond3436d811000	qcm/qcm.js	/^  return F(6, fun, function(a) { return function(b) { return function(c) {$/;"	f	function:F6.AnonymousFunctiond3436d810f00
+AnonymousFunctiond3436d8110000	qcm/qcm.js	/^	function (x, y) {$/;"	f
+AnonymousFunctiond3436d8110100	qcm/qcm.js	/^	function (nodes, acc) {$/;"	f
+AnonymousFunctiond3436d8110200	qcm/qcm.js	/^	function (nodeList, nodeListSize) {$/;"	f
+AnonymousFunctiond3436d8110300	qcm/qcm.js	/^	function (reverseNodeList, builder) {$/;"	f
+AnonymousFunctiond3436d8110400	qcm/qcm.js	/^	function (fn, fromIndex, len, nodeList, tail) {$/;"	f
+AnonymousFunctiond3436d8110500	qcm/qcm.js	/^	function (len, fn) {$/;"	f
+AnonymousFunctiond3436d8110600	qcm/qcm.js	/^	function (protocol, host, port_, path, query, fragment) {$/;"	f
+AnonymousFunctiond3436d8110700	qcm/qcm.js	/^	function (n, string) {$/;"	f
+AnonymousFunctiond3436d8110800	qcm/qcm.js	/^	function (n, string) {$/;"	f
+AnonymousFunctiond3436d8110900	qcm/qcm.js	/^	function (protocol, path, params, frag, str) {$/;"	f
+AnonymousFunctiond3436d8110a00	qcm/qcm.js	/^	function (protocol, params, frag, str) {$/;"	f
+AnonymousFunctiond3436d8110b00	qcm/qcm.js	/^	function (protocol, frag, str) {$/;"	f
+AnonymousFunctiond3436d8110c00	qcm/qcm.js	/^	function (protocol, str) {$/;"	f
+AnonymousFunctiond3436d8110d00	qcm/qcm.js	/^	function (fn, acc, ctr, ls) {$/;"	f
+AnonymousFunctiond3436d8110e00	qcm/qcm.js	/^	function (fn, acc, ls) {$/;"	f
+AnonymousFunctiond3436d8110f00	qcm/qcm.js	/^	function (f, xs) {$/;"	f
+AnonymousFunctiond3436d811100	qcm/qcm.js	/^  return F(6, fun, function(a) { return function(b) { return function(c) {$/;"	f	function:F6.AnonymousFunctiond3436d810f00.AnonymousFunctiond3436d811000
+AnonymousFunctiond3436d8111000	qcm/qcm.js	/^				function (x, acc) {$/;"	f	function:AnonymousFunctiond3436d8110f00
+AnonymousFunctiond3436d8111100	qcm/qcm.js	/^	function (func, taskA) {$/;"	f
+AnonymousFunctiond3436d8111200	qcm/qcm.js	/^			function (a) {$/;"	f	function:AnonymousFunctiond3436d8111100
+AnonymousFunctiond3436d8111300	qcm/qcm.js	/^	function (func, taskA, taskB) {$/;"	f
+AnonymousFunctiond3436d8111400	qcm/qcm.js	/^			function (a) {$/;"	f	function:AnonymousFunctiond3436d8111300
+AnonymousFunctiond3436d8111500	qcm/qcm.js	/^					function (b) {$/;"	f	function:AnonymousFunctiond3436d8111300.AnonymousFunctiond3436d8111400
+AnonymousFunctiond3436d8111600	qcm/qcm.js	/^	function (router, _v0) {$/;"	f
+AnonymousFunctiond3436d8111700	qcm/qcm.js	/^	function (router, commands, state) {$/;"	f
+AnonymousFunctiond3436d8111800	qcm/qcm.js	/^			function (_v0) {$/;"	f	function:AnonymousFunctiond3436d8111700
+AnonymousFunctiond3436d8111900	qcm/qcm.js	/^	function (_v0, _v1, _v2) {$/;"	f
+AnonymousFunctiond3436d8111a00	qcm/qcm.js	/^	function (tagger, _v0) {$/;"	f
+AnonymousFunctiond3436d8111b00	qcm/qcm.js	/^	function (toMessage, task) {$/;"	f
+AnonymousFunctiond3436d8111c00	qcm/qcm.js	/^	function (nbQuestions, niveauCandidat, note, range) {$/;"	f
+AnonymousFunctiond3436d8111d00	qcm/qcm.js	/^	function (targetKey, dict) {$/;"	f
+AnonymousFunctiond3436d8111e00	qcm/qcm.js	/^	function (a, b, c, d, e) {$/;"	f
+AnonymousFunctiond3436d8111f00	qcm/qcm.js	/^	function (color, key, value, left, right) {$/;"	f
+AnonymousFunctiond3436d811200	qcm/qcm.js	/^    return function(d) { return function(e) { return function(f) {$/;"	f	function:F6.AnonymousFunctiond3436d810f00.AnonymousFunctiond3436d811000.AnonymousFunctiond3436d811100
+AnonymousFunctiond3436d8112000	qcm/qcm.js	/^	function (key, value, dict) {$/;"	f
+AnonymousFunctiond3436d8112100	qcm/qcm.js	/^	function (key, value, dict) {$/;"	f
+AnonymousFunctiond3436d8112200	qcm/qcm.js	/^	function (mem, n, k) {$/;"	f
+AnonymousFunctiond3436d8112300	qcm/qcm.js	/^			function (_v0, dict) {$/;"	f	function:$elm$core$Dict$fromList
+AnonymousFunctiond3436d8112400	qcm/qcm.js	/^	function (n, k) {$/;"	f
+AnonymousFunctiond3436d8112500	qcm/qcm.js	/^	function (result, n, value) {$/;"	f
+AnonymousFunctiond3436d8112600	qcm/qcm.js	/^	function (n, value) {$/;"	f
+AnonymousFunctiond3436d8112700	qcm/qcm.js	/^	function (t, k, n, s) {$/;"	f
+AnonymousFunctiond3436d8112800	qcm/qcm.js	/^	function (precision, nbQ, k, n, note) {$/;"	f
+AnonymousFunctiond3436d8112900	qcm/qcm.js	/^				function (j) {$/;"	f	function:AnonymousFunctiond3436d8112800
+AnonymousFunctiond3436d8112a00	qcm/qcm.js	/^	function (func, entries) {$/;"	f
+AnonymousFunctiond3436d8112b00	qcm/qcm.js	/^				function (_v0, obj) {$/;"	f	function:$elm$json$Json$Encode$object
+AnonymousFunctiond3436d8112c00	qcm/qcm.js	/^	function (nbQ, note, precision) {$/;"	f
+AnonymousFunctiond3436d8112d00	qcm/qcm.js	/^							function (k) {$/;"	f	function:AnonymousFunctiond3436d8112c00
+AnonymousFunctiond3436d8112e00	qcm/qcm.js	/^							function (k) {$/;"	f	function:AnonymousFunctiond3436d8112c00
+AnonymousFunctiond3436d8112f00	qcm/qcm.js	/^	function (a, b) {$/;"	f
+AnonymousFunctiond3436d811300	qcm/qcm.js	/^    return function(d) { return function(e) { return function(f) {$/;"	f	function:F6.AnonymousFunctiond3436d810f00.AnonymousFunctiond3436d811000.AnonymousFunctiond3436d811100.AnonymousFunctiond3436d811200
+AnonymousFunctiond3436d8113000	qcm/qcm.js	/^	function (a, b) {$/;"	f
+AnonymousFunctiond3436d8113100	qcm/qcm.js	/^	function (time) {$/;"	f
+AnonymousFunctiond3436d8113200	qcm/qcm.js	/^	function (_v0, seed) {$/;"	f
+AnonymousFunctiond3436d8113300	qcm/qcm.js	/^	function (router, commands, seed) {$/;"	f
+AnonymousFunctiond3436d8113400	qcm/qcm.js	/^				function (_v2) {$/;"	f	function:AnonymousFunctiond3436d8113300
+AnonymousFunctiond3436d8113500	qcm/qcm.js	/^	function (_v0, _v1, seed) {$/;"	f
+AnonymousFunctiond3436d8113600	qcm/qcm.js	/^	function (func, _v0) {$/;"	f
+AnonymousFunctiond3436d8113700	qcm/qcm.js	/^		return function (seed0) {$/;"	f	function:AnonymousFunctiond3436d8113600
+AnonymousFunctiond3436d8113800	qcm/qcm.js	/^	function (func, _v0) {$/;"	f
+AnonymousFunctiond3436d8113900	qcm/qcm.js	/^	function (tagger, generator) {$/;"	f
+AnonymousFunctiond3436d8113a00	qcm/qcm.js	/^	function (targetKey, dict, color, key, value, left, right) {$/;"	f
+AnonymousFunctiond3436d8113b00	qcm/qcm.js	/^	function (targetKey, dict) {$/;"	f
+AnonymousFunctiond3436d8113c00	qcm/qcm.js	/^	function (targetKey, dict) {$/;"	f
+AnonymousFunctiond3436d8113d00	qcm/qcm.js	/^	function (key, dict) {$/;"	f
+AnonymousFunctiond3436d8113e00	qcm/qcm.js	/^	function (targetKey, alter, dictionary) {$/;"	f
+AnonymousFunctiond3436d8113f00	qcm/qcm.js	/^			function (n, d) {$/;"	f	function:$author$project$Qcm$histogram
+AnonymousFunctiond3436d811400	qcm/qcm.js	/^    return function(d) { return function(e) { return function(f) {$/;"	f	function:F6.AnonymousFunctiond3436d810f00.AnonymousFunctiond3436d811000.AnonymousFunctiond3436d811100.AnonymousFunctiond3436d811200.AnonymousFunctiond3436d811300
+AnonymousFunctiond3436d8114000	qcm/qcm.js	/^					function (x) {$/;"	f	function:$author$project$Qcm$histogram.AnonymousFunctiond3436d8113f00
+AnonymousFunctiond3436d8114100	qcm/qcm.js	/^	function (revList, n, gen, seed) {$/;"	f
+AnonymousFunctiond3436d8114200	qcm/qcm.js	/^	function (n, _v0) {$/;"	f
+AnonymousFunctiond3436d8114300	qcm/qcm.js	/^		return function (seed) {$/;"	f	function:AnonymousFunctiond3436d8114200
+AnonymousFunctiond3436d8114400	qcm/qcm.js	/^	function (callback, _v0) {$/;"	f
+AnonymousFunctiond3436d8114500	qcm/qcm.js	/^		return function (seed) {$/;"	f	function:AnonymousFunctiond3436d8114400
+AnonymousFunctiond3436d8114600	qcm/qcm.js	/^	function (a, b) {$/;"	f
+AnonymousFunctiond3436d8114700	qcm/qcm.js	/^		return function (seed0) {$/;"	f	function:AnonymousFunctiond3436d8114600
+AnonymousFunctiond3436d8114800	qcm/qcm.js	/^		function (x) {$/;"	f	function:$author$project$Qcm$bernoulli
+AnonymousFunctiond3436d8114900	qcm/qcm.js	/^	return function (seed) {$/;"	f	function:$elm$random$Random$constant
+AnonymousFunctiond3436d8114a00	qcm/qcm.js	/^		function (b) {$/;"	f	function:$author$project$Qcm$oneAnswer
+AnonymousFunctiond3436d8114b00	qcm/qcm.js	/^	function (n, p) {$/;"	f
+AnonymousFunctiond3436d8114c00	qcm/qcm.js	/^	function (n, p) {$/;"	f
+AnonymousFunctiond3436d8114d00	qcm/qcm.js	/^					function (_v0) {$/;"	f	function:$author$project$Qcm$encodeH
+AnonymousFunctiond3436d8114e00	qcm/qcm.js	/^					function (_v1) {$/;"	f	function:$author$project$Qcm$encodeH
+AnonymousFunctiond3436d8114f00	qcm/qcm.js	/^	function (msg, model) {$/;"	f
+AnonymousFunctiond3436d811500	qcm/qcm.js	/^  return F(7, fun, function(a) { return function(b) { return function(c) {$/;"	f	function:F7
+AnonymousFunctiond3436d8115000	qcm/qcm.js	/^	function (key, string) {$/;"	f
+AnonymousFunctiond3436d8115100	qcm/qcm.js	/^	function (callback, maybeValue) {$/;"	f
+AnonymousFunctiond3436d8115200	qcm/qcm.js	/^	function (modifier, options) {$/;"	f
+AnonymousFunctiond3436d8115300	qcm/qcm.js	/^	function (isGood, list) {$/;"	f
+AnonymousFunctiond3436d8115400	qcm/qcm.js	/^				function (x, xs) {$/;"	f	function:AnonymousFunctiond3436d8115300
+AnonymousFunctiond3436d8115500	qcm/qcm.js	/^	function (key, bool) {$/;"	f
+AnonymousFunctiond3436d8115600	qcm/qcm.js	/^			function () {$/;"	f	function:$rundis$elm_bootstrap$Bootstrap$Internal$Button$buttonAttributes
+AnonymousFunctiond3436d8115700	qcm/qcm.js	/^				function () {$/;"	f	function:$rundis$elm_bootstrap$Bootstrap$Internal$Button$buttonAttributes
+AnonymousFunctiond3436d8115800	qcm/qcm.js	/^	function (options, children) {$/;"	f
+AnonymousFunctiond3436d8115900	qcm/qcm.js	/^	function (options, children) {$/;"	f
+AnonymousFunctiond3436d8115a00	qcm/qcm.js	/^	function (attributes, children) {$/;"	f
+AnonymousFunctiond3436d8115b00	qcm/qcm.js	/^	function (modifier, options) {$/;"	f
+AnonymousFunctiond3436d8115c00	qcm/qcm.js	/^	function (options, children) {$/;"	f
+AnonymousFunctiond3436d8115d00	qcm/qcm.js	/^	function (attributes, children) {$/;"	f
+AnonymousFunctiond3436d8115e00	qcm/qcm.js	/^	function (tipe, options) {$/;"	f
+AnonymousFunctiond3436d8115f00	qcm/qcm.js	/^	function (modifier, options) {$/;"	f
+AnonymousFunctiond3436d811600	qcm/qcm.js	/^  return F(7, fun, function(a) { return function(b) { return function(c) {$/;"	f	function:F7.AnonymousFunctiond3436d811500
+AnonymousFunctiond3436d8116000	qcm/qcm.js	/^	function (f, mx, xs) {$/;"	f
+AnonymousFunctiond3436d8116100	qcm/qcm.js	/^	function (f, xs) {$/;"	f
+AnonymousFunctiond3436d8116200	qcm/qcm.js	/^	function (f, maybe) {$/;"	f
+AnonymousFunctiond3436d8116300	qcm/qcm.js	/^	function (event, decoder) {$/;"	f
+AnonymousFunctiond3436d8116400	qcm/qcm.js	/^	function (fields, decoder) {$/;"	f
+AnonymousFunctiond3436d8116500	qcm/qcm.js	/^		function (s) {$/;"	f	function:$rundis$elm_bootstrap$Bootstrap$Form$Input$sizeAttribute
+AnonymousFunctiond3436d8116600	qcm/qcm.js	/^		function () {$/;"	f	function:$rundis$elm_bootstrap$Bootstrap$Form$Input$typeAttribute
+AnonymousFunctiond3436d8116700	qcm/qcm.js	/^	function (tipe, options) {$/;"	f
+AnonymousFunctiond3436d8116800	qcm/qcm.js	/^	function (event, decoder) {$/;"	f
+AnonymousFunctiond3436d8116900	qcm/qcm.js	/^	function (screenSize, columnCount) {$/;"	f
+AnonymousFunctiond3436d8116a00	qcm/qcm.js	/^	function (align_, options) {$/;"	f
+AnonymousFunctiond3436d8116b00	qcm/qcm.js	/^	function (offset_, options) {$/;"	f
+AnonymousFunctiond3436d8116c00	qcm/qcm.js	/^	function (order_, options) {$/;"	f
+AnonymousFunctiond3436d8116d00	qcm/qcm.js	/^	function (pull_, options) {$/;"	f
+AnonymousFunctiond3436d8116e00	qcm/qcm.js	/^	function (push_, options) {$/;"	f
+AnonymousFunctiond3436d8116f00	qcm/qcm.js	/^	function (width_, options) {$/;"	f
+AnonymousFunctiond3436d811700	qcm/qcm.js	/^  return F(7, fun, function(a) { return function(b) { return function(c) {$/;"	f	function:F7.AnonymousFunctiond3436d811500.AnonymousFunctiond3436d811600
+AnonymousFunctiond3436d8117000	qcm/qcm.js	/^	function (modifier, options) {$/;"	f
+AnonymousFunctiond3436d8117100	qcm/qcm.js	/^	function (_default, maybe) {$/;"	f
+AnonymousFunctiond3436d8117200	qcm/qcm.js	/^				function (v) {$/;"	f	function:$rundis$elm_bootstrap$Bootstrap$Grid$Internal$colWidthClass
+AnonymousFunctiond3436d8117300	qcm/qcm.js	/^				function (v) {$/;"	f	function:$rundis$elm_bootstrap$Bootstrap$Grid$Internal$colWidthClass
+AnonymousFunctiond3436d8117400	qcm/qcm.js	/^				function (s) {$/;"	f	function:$rundis$elm_bootstrap$Bootstrap$Internal$Text$textAlignClass
+AnonymousFunctiond3436d8117500	qcm/qcm.js	/^	function (prefix, _v0) {$/;"	f
+AnonymousFunctiond3436d8117600	qcm/qcm.js	/^							function (v) {$/;"	f	function:AnonymousFunctiond3436d8117500
+AnonymousFunctiond3436d8117700	qcm/qcm.js	/^	function (prefix, aligns) {$/;"	f
+AnonymousFunctiond3436d8117800	qcm/qcm.js	/^								function () {$/;"	f	function:$rundis$elm_bootstrap$Bootstrap$Grid$Internal$colAttributes
+AnonymousFunctiond3436d8117900	qcm/qcm.js	/^	function (align, options) {$/;"	f
+AnonymousFunctiond3436d8117a00	qcm/qcm.js	/^	function (align_, options) {$/;"	f
+AnonymousFunctiond3436d8117b00	qcm/qcm.js	/^	function (modifier, options) {$/;"	f
+AnonymousFunctiond3436d8117c00	qcm/qcm.js	/^				function (v) {$/;"	f	function:$rundis$elm_bootstrap$Bootstrap$General$Internal$hAlignClass
+AnonymousFunctiond3436d8117d00	qcm/qcm.js	/^	function (options, cols) {$/;"	f
+AnonymousFunctiond3436d811800	qcm/qcm.js	/^    return function(d) { return function(e) { return function(f) {$/;"	f	function:F7.AnonymousFunctiond3436d811500.AnonymousFunctiond3436d811600.AnonymousFunctiond3436d811700
+AnonymousFunctiond3436d811900	qcm/qcm.js	/^    return function(d) { return function(e) { return function(f) {$/;"	f	function:F7.AnonymousFunctiond3436d811500.AnonymousFunctiond3436d811600.AnonymousFunctiond3436d811700.AnonymousFunctiond3436d811800
+AnonymousFunctiond3436d811a00	qcm/qcm.js	/^    return function(d) { return function(e) { return function(f) {$/;"	f	function:F7.AnonymousFunctiond3436d811500.AnonymousFunctiond3436d811600.AnonymousFunctiond3436d811700.AnonymousFunctiond3436d811800.AnonymousFunctiond3436d811900
+AnonymousFunctiond3436d811b00	qcm/qcm.js	/^    return function(g) { return fun(a, b, c, d, e, f, g); }; }; }; }; }; };$/;"	f	function:F7.AnonymousFunctiond3436d811500.AnonymousFunctiond3436d811600.AnonymousFunctiond3436d811700.AnonymousFunctiond3436d811800.AnonymousFunctiond3436d811900.AnonymousFunctiond3436d811a00
+AnonymousFunctiond3436d811c00	qcm/qcm.js	/^  return F(8, fun, function(a) { return function(b) { return function(c) {$/;"	f	function:F8
+AnonymousFunctiond3436d811d00	qcm/qcm.js	/^  return F(8, fun, function(a) { return function(b) { return function(c) {$/;"	f	function:F8.AnonymousFunctiond3436d811c00
+AnonymousFunctiond3436d811e00	qcm/qcm.js	/^  return F(8, fun, function(a) { return function(b) { return function(c) {$/;"	f	function:F8.AnonymousFunctiond3436d811c00.AnonymousFunctiond3436d811d00
+AnonymousFunctiond3436d811f00	qcm/qcm.js	/^    return function(d) { return function(e) { return function(f) {$/;"	f	function:F8.AnonymousFunctiond3436d811c00.AnonymousFunctiond3436d811d00.AnonymousFunctiond3436d811e00
+AnonymousFunctiond3436d812000	qcm/qcm.js	/^    return function(d) { return function(e) { return function(f) {$/;"	f	function:F8.AnonymousFunctiond3436d811c00.AnonymousFunctiond3436d811d00.AnonymousFunctiond3436d811e00.AnonymousFunctiond3436d811f00
+AnonymousFunctiond3436d812100	qcm/qcm.js	/^    return function(d) { return function(e) { return function(f) {$/;"	f	function:F8.AnonymousFunctiond3436d811c00.AnonymousFunctiond3436d811d00.AnonymousFunctiond3436d811e00.AnonymousFunctiond3436d811f00.AnonymousFunctiond3436d812000
+AnonymousFunctiond3436d812200	qcm/qcm.js	/^    return function(g) { return function(h) {$/;"	f	function:F8.AnonymousFunctiond3436d811c00.AnonymousFunctiond3436d811d00.AnonymousFunctiond3436d811e00.AnonymousFunctiond3436d811f00.AnonymousFunctiond3436d812000.AnonymousFunctiond3436d812100
+AnonymousFunctiond3436d812300	qcm/qcm.js	/^    return function(g) { return function(h) {$/;"	f	function:F8.AnonymousFunctiond3436d811c00.AnonymousFunctiond3436d811d00.AnonymousFunctiond3436d811e00.AnonymousFunctiond3436d811f00.AnonymousFunctiond3436d812000.AnonymousFunctiond3436d812100.AnonymousFunctiond3436d812200
+AnonymousFunctiond3436d812400	qcm/qcm.js	/^  return F(9, fun, function(a) { return function(b) { return function(c) {$/;"	f	function:F9
+AnonymousFunctiond3436d812500	qcm/qcm.js	/^  return F(9, fun, function(a) { return function(b) { return function(c) {$/;"	f	function:F9.AnonymousFunctiond3436d812400
+AnonymousFunctiond3436d812600	qcm/qcm.js	/^  return F(9, fun, function(a) { return function(b) { return function(c) {$/;"	f	function:F9.AnonymousFunctiond3436d812400.AnonymousFunctiond3436d812500
+AnonymousFunctiond3436d812700	qcm/qcm.js	/^    return function(d) { return function(e) { return function(f) {$/;"	f	function:F9.AnonymousFunctiond3436d812400.AnonymousFunctiond3436d812500.AnonymousFunctiond3436d812600
+AnonymousFunctiond3436d812800	qcm/qcm.js	/^    return function(d) { return function(e) { return function(f) {$/;"	f	function:F9.AnonymousFunctiond3436d812400.AnonymousFunctiond3436d812500.AnonymousFunctiond3436d812600.AnonymousFunctiond3436d812700
+AnonymousFunctiond3436d812900	qcm/qcm.js	/^    return function(d) { return function(e) { return function(f) {$/;"	f	function:F9.AnonymousFunctiond3436d812400.AnonymousFunctiond3436d812500.AnonymousFunctiond3436d812600.AnonymousFunctiond3436d812700.AnonymousFunctiond3436d812800
+AnonymousFunctiond3436d812a00	qcm/qcm.js	/^    return function(g) { return function(h) { return function(i) {$/;"	f	function:F9.AnonymousFunctiond3436d812400.AnonymousFunctiond3436d812500.AnonymousFunctiond3436d812600.AnonymousFunctiond3436d812700.AnonymousFunctiond3436d812800.AnonymousFunctiond3436d812900
+AnonymousFunctiond3436d812b00	qcm/qcm.js	/^    return function(g) { return function(h) { return function(i) {$/;"	f	function:F9.AnonymousFunctiond3436d812400.AnonymousFunctiond3436d812500.AnonymousFunctiond3436d812600.AnonymousFunctiond3436d812700.AnonymousFunctiond3436d812800.AnonymousFunctiond3436d812900.AnonymousFunctiond3436d812a00
+AnonymousFunctiond3436d812c00	qcm/qcm.js	/^    return function(g) { return function(h) { return function(i) {$/;"	f	function:F9.AnonymousFunctiond3436d812400.AnonymousFunctiond3436d812500.AnonymousFunctiond3436d812600.AnonymousFunctiond3436d812700.AnonymousFunctiond3436d812800.AnonymousFunctiond3436d812900.AnonymousFunctiond3436d812a00.AnonymousFunctiond3436d812b00
+AnonymousFunctiond3436d812d00	qcm/qcm.js	/^var _Utils_notEqual = F2(function(a, b) { return !_Utils_eq(a,b); });$/;"	f
+AnonymousFunctiond3436d812e00	qcm/qcm.js	/^var _Utils_lt = F2(function(a, b) { return _Utils_cmp(a, b) < 0; });$/;"	f
+AnonymousFunctiond3436d812f00	qcm/qcm.js	/^var _Utils_le = F2(function(a, b) { return _Utils_cmp(a, b) < 1; });$/;"	f
+AnonymousFunctiond3436d813000	qcm/qcm.js	/^var _Utils_gt = F2(function(a, b) { return _Utils_cmp(a, b) > 0; });$/;"	f
+AnonymousFunctiond3436d813100	qcm/qcm.js	/^var _Utils_ge = F2(function(a, b) { return _Utils_cmp(a, b) >= 0; });$/;"	f
+AnonymousFunctiond3436d813200	qcm/qcm.js	/^var _Utils_compare = F2(function(x, y)$/;"	f
+AnonymousFunctiond3436d813300	qcm/qcm.js	/^var _List_map2 = F3(function(f, xs, ys)$/;"	f
+AnonymousFunctiond3436d813400	qcm/qcm.js	/^var _List_map3 = F4(function(f, xs, ys, zs)$/;"	f
+AnonymousFunctiond3436d813500	qcm/qcm.js	/^var _List_map4 = F5(function(f, ws, xs, ys, zs)$/;"	f
+AnonymousFunctiond3436d813600	qcm/qcm.js	/^var _List_map5 = F6(function(f, vs, ws, xs, ys, zs)$/;"	f
+AnonymousFunctiond3436d813700	qcm/qcm.js	/^var _List_sortBy = F2(function(f, xs)$/;"	f
+AnonymousFunctiond3436d813800	qcm/qcm.js	/^	return _List_fromArray(_List_toArray(xs).sort(function(a, b) {$/;"	f	function:AnonymousFunctiond3436d813700
+AnonymousFunctiond3436d813900	qcm/qcm.js	/^var _List_sortWith = F2(function(f, xs)$/;"	f
+AnonymousFunctiond3436d813a00	qcm/qcm.js	/^	return _List_fromArray(_List_toArray(xs).sort(function(a, b) {$/;"	f	function:AnonymousFunctiond3436d813900
+AnonymousFunctiond3436d813b00	qcm/qcm.js	/^var _JsArray_initialize = F3(function(size, offset, func)$/;"	f
+AnonymousFunctiond3436d813c00	qcm/qcm.js	/^var _JsArray_initializeFromList = F2(function (max, ls)$/;"	f
+AnonymousFunctiond3436d813d00	qcm/qcm.js	/^var _JsArray_unsafeGet = F2(function(index, array)$/;"	f
+AnonymousFunctiond3436d813e00	qcm/qcm.js	/^var _JsArray_unsafeSet = F3(function(index, value, array)$/;"	f
+AnonymousFunctiond3436d813f00	qcm/qcm.js	/^var _JsArray_push = F2(function(value, array)$/;"	f
+AnonymousFunctiond3436d814000	qcm/qcm.js	/^var _JsArray_foldl = F3(function(func, acc, array)$/;"	f
+AnonymousFunctiond3436d814100	qcm/qcm.js	/^var _JsArray_foldr = F3(function(func, acc, array)$/;"	f
+AnonymousFunctiond3436d814200	qcm/qcm.js	/^var _JsArray_map = F2(function(func, array)$/;"	f
+AnonymousFunctiond3436d814300	qcm/qcm.js	/^var _JsArray_indexedMap = F3(function(func, offset, array)$/;"	f
+AnonymousFunctiond3436d814400	qcm/qcm.js	/^var _JsArray_slice = F3(function(from, to, array)$/;"	f
+AnonymousFunctiond3436d814500	qcm/qcm.js	/^var _JsArray_appendN = F3(function(n, dest, source)$/;"	f
+AnonymousFunctiond3436d814600	qcm/qcm.js	/^var _Debug_log = F2(function(tag, value)$/;"	f
+AnonymousFunctiond3436d814700	qcm/qcm.js	/^var _Debug_log_UNUSED = F2(function(tag, value)$/;"	f
+AnonymousFunctiond3436d814800	qcm/qcm.js	/^	return function(message) {$/;"	f	function:_Debug_todo
+AnonymousFunctiond3436d814900	qcm/qcm.js	/^	return function(message) {$/;"	f	function:_Debug_todoCase
+AnonymousFunctiond3436d814a00	qcm/qcm.js	/^var _Basics_add = F2(function(a, b) { return a + b; });$/;"	f
+AnonymousFunctiond3436d814b00	qcm/qcm.js	/^var _Basics_sub = F2(function(a, b) { return a - b; });$/;"	f
+AnonymousFunctiond3436d814c00	qcm/qcm.js	/^var _Basics_mul = F2(function(a, b) { return a * b; });$/;"	f
+AnonymousFunctiond3436d814d00	qcm/qcm.js	/^var _Basics_fdiv = F2(function(a, b) { return a \/ b; });$/;"	f
+AnonymousFunctiond3436d814e00	qcm/qcm.js	/^var _Basics_idiv = F2(function(a, b) { return (a \/ b) | 0; });$/;"	f
+AnonymousFunctiond3436d814f00	qcm/qcm.js	/^var _Basics_remainderBy = F2(function(b, a) { return a % b; });$/;"	f
+AnonymousFunctiond3436d815000	qcm/qcm.js	/^var _Basics_modBy = F2(function(modulus, x)$/;"	f
+AnonymousFunctiond3436d815100	qcm/qcm.js	/^var _Basics_and = F2(function(a, b) { return a && b; });$/;"	f
+AnonymousFunctiond3436d815200	qcm/qcm.js	/^var _Basics_or  = F2(function(a, b) { return a || b; });$/;"	f
+AnonymousFunctiond3436d815300	qcm/qcm.js	/^var _Basics_xor = F2(function(a, b) { return a !== b; });$/;"	f
+AnonymousFunctiond3436d815400	qcm/qcm.js	/^var _String_cons = F2(function(chr, str)$/;"	f
+AnonymousFunctiond3436d815500	qcm/qcm.js	/^var _String_append = F2(function(a, b)$/;"	f
+AnonymousFunctiond3436d815600	qcm/qcm.js	/^var _String_map = F2(function(func, string)$/;"	f
+AnonymousFunctiond3436d815700	qcm/qcm.js	/^var _String_filter = F2(function(isGood, str)$/;"	f
+AnonymousFunctiond3436d815800	qcm/qcm.js	/^var _String_foldl = F3(function(func, state, string)$/;"	f
+AnonymousFunctiond3436d815900	qcm/qcm.js	/^var _String_foldr = F3(function(func, state, string)$/;"	f
+AnonymousFunctiond3436d815a00	qcm/qcm.js	/^var _String_split = F2(function(sep, str)$/;"	f
+AnonymousFunctiond3436d815b00	qcm/qcm.js	/^var _String_join = F2(function(sep, strs)$/;"	f
+AnonymousFunctiond3436d815c00	qcm/qcm.js	/^var _String_slice = F3(function(start, end, str) {$/;"	f
+AnonymousFunctiond3436d815d00	qcm/qcm.js	/^var _String_any = F2(function(isGood, string)$/;"	f
+AnonymousFunctiond3436d815e00	qcm/qcm.js	/^var _String_all = F2(function(isGood, string)$/;"	f
+AnonymousFunctiond3436d815f00	qcm/qcm.js	/^var _String_contains = F2(function(sub, str)$/;"	f
+AnonymousFunctiond3436d816000	qcm/qcm.js	/^var _String_startsWith = F2(function(sub, str)$/;"	f
+AnonymousFunctiond3436d816100	qcm/qcm.js	/^var _String_endsWith = F2(function(sub, str)$/;"	f
+AnonymousFunctiond3436d816200	qcm/qcm.js	/^var _String_indexes = F2(function(sub, str)$/;"	f
+AnonymousFunctiond3436d816300	qcm/qcm.js	/^var _Json_decodeInt = _Json_decodePrim(function(value) {$/;"	f
+AnonymousFunctiond3436d816400	qcm/qcm.js	/^var _Json_decodeBool = _Json_decodePrim(function(value) {$/;"	f
+AnonymousFunctiond3436d816500	qcm/qcm.js	/^var _Json_decodeFloat = _Json_decodePrim(function(value) {$/;"	f
+AnonymousFunctiond3436d816600	qcm/qcm.js	/^var _Json_decodeValue = _Json_decodePrim(function(value) {$/;"	f
+AnonymousFunctiond3436d816700	qcm/qcm.js	/^var _Json_decodeString = _Json_decodePrim(function(value) {$/;"	f
+AnonymousFunctiond3436d816800	qcm/qcm.js	/^var _Json_decodeField = F2(function(field, decoder)$/;"	f
+AnonymousFunctiond3436d816900	qcm/qcm.js	/^var _Json_decodeIndex = F2(function(index, decoder)$/;"	f
+AnonymousFunctiond3436d816a00	qcm/qcm.js	/^var _Json_andThen = F2(function(callback, decoder)$/;"	f
+AnonymousFunctiond3436d816b00	qcm/qcm.js	/^var _Json_map1 = F2(function(f, d1)$/;"	f
+AnonymousFunctiond3436d816c00	qcm/qcm.js	/^var _Json_map2 = F3(function(f, d1, d2)$/;"	f
+AnonymousFunctiond3436d816d00	qcm/qcm.js	/^var _Json_map3 = F4(function(f, d1, d2, d3)$/;"	f
+AnonymousFunctiond3436d816e00	qcm/qcm.js	/^var _Json_map4 = F5(function(f, d1, d2, d3, d4)$/;"	f
+AnonymousFunctiond3436d816f00	qcm/qcm.js	/^var _Json_map5 = F6(function(f, d1, d2, d3, d4, d5)$/;"	f
+AnonymousFunctiond3436d817000	qcm/qcm.js	/^var _Json_map6 = F7(function(f, d1, d2, d3, d4, d5, d6)$/;"	f
+AnonymousFunctiond3436d817100	qcm/qcm.js	/^var _Json_map7 = F8(function(f, d1, d2, d3, d4, d5, d6, d7)$/;"	f
+AnonymousFunctiond3436d817200	qcm/qcm.js	/^var _Json_map8 = F9(function(f, d1, d2, d3, d4, d5, d6, d7, d8)$/;"	f
+AnonymousFunctiond3436d817300	qcm/qcm.js	/^var _Json_runOnString = F2(function(decoder, string)$/;"	f
+AnonymousFunctiond3436d817400	qcm/qcm.js	/^var _Json_run = F2(function(decoder, value)$/;"	f
+AnonymousFunctiond3436d817500	qcm/qcm.js	/^	return A2($elm$core$Array$initialize, array.length, function(i) { return array[i]; });$/;"	f	function:_Json_toElmArray
+AnonymousFunctiond3436d817600	qcm/qcm.js	/^var _Json_encode = F2(function(indentLevel, value)$/;"	f
+AnonymousFunctiond3436d817700	qcm/qcm.js	/^var _Json_addField = F3(function(key, value, object)$/;"	f
+AnonymousFunctiond3436d817800	qcm/qcm.js	/^	return F2(function(entry, array)$/;"	f	function:_Json_addEntry
+AnonymousFunctiond3436d817900	qcm/qcm.js	/^var _Scheduler_andThen = F2(function(callback, task)$/;"	f
+AnonymousFunctiond3436d817a00	qcm/qcm.js	/^var _Scheduler_onError = F2(function(callback, task)$/;"	f
+AnonymousFunctiond3436d817b00	qcm/qcm.js	/^	return _Scheduler_binding(function(callback) {$/;"	f	function:_Scheduler_spawn
+AnonymousFunctiond3436d817c00	qcm/qcm.js	/^var _Scheduler_send = F2(function(proc, msg)$/;"	f
+AnonymousFunctiond3436d817d00	qcm/qcm.js	/^	return _Scheduler_binding(function(callback) {$/;"	f	function:AnonymousFunctiond3436d817c00
+AnonymousFunctiond3436d817e00	qcm/qcm.js	/^	return _Scheduler_binding(function(callback) {$/;"	f	function:_Scheduler_kill
+AnonymousFunctiond3436d817f00	qcm/qcm.js	/^			proc.f.c = proc.f.b(function(newRoot) {$/;"	f
+AnonymousFunctiond3436d818000	qcm/qcm.js	/^	return _Scheduler_binding(function(callback) {$/;"	f	function:_Process_sleep
+AnonymousFunctiond3436d818100	qcm/qcm.js	/^		var id = setTimeout(function() {$/;"	f	function:_Process_sleep.AnonymousFunctiond3436d818000
+AnonymousFunctiond3436d818200	qcm/qcm.js	/^		return function() { clearTimeout(id); };$/;"	f	function:_Process_sleep.AnonymousFunctiond3436d818000
+AnonymousFunctiond3436d818300	qcm/qcm.js	/^var _Platform_worker = F4(function(impl, flagDecoder, debugMetadata, args)$/;"	f
+AnonymousFunctiond3436d818400	qcm/qcm.js	/^		function() { return function() {} }$/;"	f	function:AnonymousFunctiond3436d818300
+AnonymousFunctiond3436d818500	qcm/qcm.js	/^		function() { return function() {} }$/;"	f	function:AnonymousFunctiond3436d818300.AnonymousFunctiond3436d818400
+AnonymousFunctiond3436d818600	qcm/qcm.js	/^		return A2(_Scheduler_andThen, loop, _Scheduler_receive(function(msg)$/;"	f	function:_Platform_instantiateManager.loop
+AnonymousFunctiond3436d818700	qcm/qcm.js	/^var _Platform_sendToApp = F2(function(router, msg)$/;"	f
+AnonymousFunctiond3436d818800	qcm/qcm.js	/^	return _Scheduler_binding(function(callback)$/;"	f	function:AnonymousFunctiond3436d818700
+AnonymousFunctiond3436d818900	qcm/qcm.js	/^var _Platform_sendToSelf = F2(function(router, msg)$/;"	f
+AnonymousFunctiond3436d818a00	qcm/qcm.js	/^	return function(value)$/;"	f	function:_Platform_leaf
+AnonymousFunctiond3436d818b00	qcm/qcm.js	/^var _Platform_map = F2(function(tagger, bag)$/;"	f
+AnonymousFunctiond3436d818c00	qcm/qcm.js	/^var _Platform_outgoingPortMap = F2(function(tagger, value) { return value; });$/;"	f
+AnonymousFunctiond3436d818d00	qcm/qcm.js	/^	_Platform_effectManagers[name].c = F3(function(router, cmdList, state)$/;"	f
+AnonymousFunctiond3436d818e00	qcm/qcm.js	/^var _Platform_incomingPortMap = F2(function(tagger, finalTagger)$/;"	f
+AnonymousFunctiond3436d818f00	qcm/qcm.js	/^	return function(value)$/;"	f	function:AnonymousFunctiond3436d818e00
+AnonymousFunctiond3436d819000	qcm/qcm.js	/^	_Platform_effectManagers[name].c = F3(function(router, subList, state)$/;"	f
+AnonymousFunctiond3436d819100	qcm/qcm.js	/^var _VirtualDom_init = F4(function(virtualNode, flagDecoder, debugMetadata, args)$/;"	f
+AnonymousFunctiond3436d819200	qcm/qcm.js	/^		_VirtualDom_render(virtualNode, function() {}),$/;"	f
+AnonymousFunctiond3436d819300	qcm/qcm.js	/^var _VirtualDom_nodeNS = F2(function(namespace, tag)$/;"	f
+AnonymousFunctiond3436d819400	qcm/qcm.js	/^	return F2(function(factList, kidList)$/;"	f	function:AnonymousFunctiond3436d819300
+AnonymousFunctiond3436d819500	qcm/qcm.js	/^var _VirtualDom_keyedNodeNS = F2(function(namespace, tag)$/;"	f
+AnonymousFunctiond3436d819600	qcm/qcm.js	/^	return F2(function(factList, kidList)$/;"	f	function:AnonymousFunctiond3436d819500
+AnonymousFunctiond3436d819700	qcm/qcm.js	/^var _VirtualDom_map = F2(function(tagger, node)$/;"	f
+AnonymousFunctiond3436d819800	qcm/qcm.js	/^var _VirtualDom_lazy = F2(function(func, a)$/;"	f
+AnonymousFunctiond3436d819900	qcm/qcm.js	/^	return _VirtualDom_thunk([func, a], function() {$/;"	f	function:AnonymousFunctiond3436d819800
+AnonymousFunctiond3436d819a00	qcm/qcm.js	/^var _VirtualDom_lazy2 = F3(function(func, a, b)$/;"	f
+AnonymousFunctiond3436d819b00	qcm/qcm.js	/^	return _VirtualDom_thunk([func, a, b], function() {$/;"	f	function:AnonymousFunctiond3436d819a00
+AnonymousFunctiond3436d819c00	qcm/qcm.js	/^var _VirtualDom_lazy3 = F4(function(func, a, b, c)$/;"	f
+AnonymousFunctiond3436d819d00	qcm/qcm.js	/^	return _VirtualDom_thunk([func, a, b, c], function() {$/;"	f	function:AnonymousFunctiond3436d819c00
+AnonymousFunctiond3436d819e00	qcm/qcm.js	/^var _VirtualDom_lazy4 = F5(function(func, a, b, c, d)$/;"	f
+AnonymousFunctiond3436d819f00	qcm/qcm.js	/^	return _VirtualDom_thunk([func, a, b, c, d], function() {$/;"	f	function:AnonymousFunctiond3436d819e00
+AnonymousFunctiond3436d81a000	qcm/qcm.js	/^var _VirtualDom_lazy5 = F6(function(func, a, b, c, d, e)$/;"	f
+AnonymousFunctiond3436d81a100	qcm/qcm.js	/^	return _VirtualDom_thunk([func, a, b, c, d, e], function() {$/;"	f	function:AnonymousFunctiond3436d81a000
+AnonymousFunctiond3436d81a200	qcm/qcm.js	/^var _VirtualDom_lazy6 = F7(function(func, a, b, c, d, e, f)$/;"	f
+AnonymousFunctiond3436d81a300	qcm/qcm.js	/^	return _VirtualDom_thunk([func, a, b, c, d, e, f], function() {$/;"	f	function:AnonymousFunctiond3436d81a200
+AnonymousFunctiond3436d81a400	qcm/qcm.js	/^var _VirtualDom_lazy7 = F8(function(func, a, b, c, d, e, f, g)$/;"	f
+AnonymousFunctiond3436d81a500	qcm/qcm.js	/^	return _VirtualDom_thunk([func, a, b, c, d, e, f, g], function() {$/;"	f	function:AnonymousFunctiond3436d81a400
+AnonymousFunctiond3436d81a600	qcm/qcm.js	/^var _VirtualDom_lazy8 = F9(function(func, a, b, c, d, e, f, g, h)$/;"	f
+AnonymousFunctiond3436d81a700	qcm/qcm.js	/^	return _VirtualDom_thunk([func, a, b, c, d, e, f, g, h], function() {$/;"	f	function:AnonymousFunctiond3436d81a600
+AnonymousFunctiond3436d81a800	qcm/qcm.js	/^var _VirtualDom_on = F2(function(key, handler)$/;"	f
+AnonymousFunctiond3436d81a900	qcm/qcm.js	/^var _VirtualDom_style = F2(function(key, value)$/;"	f
+AnonymousFunctiond3436d81aa00	qcm/qcm.js	/^var _VirtualDom_property = F2(function(key, value)$/;"	f
+AnonymousFunctiond3436d81ab00	qcm/qcm.js	/^var _VirtualDom_attribute = F2(function(key, value)$/;"	f
+AnonymousFunctiond3436d81ac00	qcm/qcm.js	/^var _VirtualDom_attributeNS = F3(function(namespace, key, value)$/;"	f
+AnonymousFunctiond3436d81ad00	qcm/qcm.js	/^var _VirtualDom_mapAttribute = F2(function(func, attr)$/;"	f
+AnonymousFunctiond3436d81ae00	qcm/qcm.js	/^var _VirtualDom_mapEventTuple = F2(function(func, tuple)$/;"	f
+AnonymousFunctiond3436d81af00	qcm/qcm.js	/^var _VirtualDom_mapEventRecord = F2(function(func, record)$/;"	f
+AnonymousFunctiond3436d81b000	qcm/qcm.js	/^		get: function() { _VirtualDom_passiveSupported = true; }$/;"	f
+AnonymousFunctiond3436d81b100	qcm/qcm.js	/^var _Browser_element = _Debugger_element || F4(function(impl, flagDecoder, debugMetadata, args)$/;"	f
+AnonymousFunctiond3436d81b200	qcm/qcm.js	/^		function(sendToApp, initialModel) {$/;"	f	function:AnonymousFunctiond3436d81b100
+AnonymousFunctiond3436d81b300	qcm/qcm.js	/^			return _Browser_makeAnimator(initialModel, function(model)$/;"	f	function:AnonymousFunctiond3436d81b100.AnonymousFunctiond3436d81b200
+AnonymousFunctiond3436d81b400	qcm/qcm.js	/^var _Browser_document = _Debugger_document || F4(function(impl, flagDecoder, debugMetadata, args/;"	f
+AnonymousFunctiond3436d81b500	qcm/qcm.js	/^		function(sendToApp, initialModel) {$/;"	f	function:AnonymousFunctiond3436d81b400
+AnonymousFunctiond3436d81b600	qcm/qcm.js	/^			return _Browser_makeAnimator(initialModel, function(model)$/;"	f	function:AnonymousFunctiond3436d81b400.AnonymousFunctiond3436d81b500
+AnonymousFunctiond3436d81b700	qcm/qcm.js	/^	return function(nextModel, isSync)$/;"	f	function:_Browser_makeAnimator
+AnonymousFunctiond3436d81b800	qcm/qcm.js	/^		cc: function(sendToApp)$/;"	f	function:_Browser_application
+AnonymousFunctiond3436d81b900	qcm/qcm.js	/^			return F2(function(domNode, event)$/;"	f	function:_Browser_application.AnonymousFunctiond3436d81b800
+AnonymousFunctiond3436d81ba00	qcm/qcm.js	/^		dp: function(flags)$/;"	f	function:_Browser_application
+AnonymousFunctiond3436d81bb00	qcm/qcm.js	/^var _Browser_go = F2(function(key, n)$/;"	f
+AnonymousFunctiond3436d81bc00	qcm/qcm.js	/^	return A2($elm$core$Task$perform, $elm$core$Basics$never, _Scheduler_binding(function() {$/;"	f	function:AnonymousFunctiond3436d81bb00
+AnonymousFunctiond3436d81bd00	qcm/qcm.js	/^var _Browser_pushUrl = F2(function(key, url)$/;"	f
+AnonymousFunctiond3436d81be00	qcm/qcm.js	/^	return A2($elm$core$Task$perform, $elm$core$Basics$never, _Scheduler_binding(function() {$/;"	f	function:AnonymousFunctiond3436d81bd00
+AnonymousFunctiond3436d81bf00	qcm/qcm.js	/^var _Browser_replaceUrl = F2(function(key, url)$/;"	f
+AnonymousFunctiond3436d81c000	qcm/qcm.js	/^	return A2($elm$core$Task$perform, $elm$core$Basics$never, _Scheduler_binding(function() {$/;"	f	function:AnonymousFunctiond3436d81bf00
+AnonymousFunctiond3436d81c100	qcm/qcm.js	/^var _Browser_on = F3(function(node, eventName, sendToSelf)$/;"	f
+AnonymousFunctiond3436d81c200	qcm/qcm.js	/^	return _Scheduler_spawn(_Scheduler_binding(function(callback)$/;"	f	function:AnonymousFunctiond3436d81c100
+AnonymousFunctiond3436d81c300	qcm/qcm.js	/^		return function() { node.removeEventListener(eventName, handler); };$/;"	f	function:AnonymousFunctiond3436d81c100.AnonymousFunctiond3436d81c200
+AnonymousFunctiond3436d81c400	qcm/qcm.js	/^var _Browser_decodeEvent = F2(function(decoder, event)$/;"	f
+AnonymousFunctiond3436d81c500	qcm/qcm.js	/^	return _Scheduler_binding(function(callback)$/;"	f	function:_Browser_rAF
+AnonymousFunctiond3436d81c600	qcm/qcm.js	/^		var id = _Browser_requestAnimationFrame(function() {$/;"	f	function:_Browser_rAF.AnonymousFunctiond3436d81c500
+AnonymousFunctiond3436d81c700	qcm/qcm.js	/^		return function() {$/;"	f	function:_Browser_rAF.AnonymousFunctiond3436d81c500
+AnonymousFunctiond3436d81c800	qcm/qcm.js	/^	return _Scheduler_binding(function(callback)$/;"	f	function:_Browser_now
+AnonymousFunctiond3436d81c900	qcm/qcm.js	/^	return _Scheduler_binding(function(callback)$/;"	f	function:_Browser_withNode
+AnonymousFunctiond3436d81ca00	qcm/qcm.js	/^		_Browser_requestAnimationFrame(function() {$/;"	f	function:_Browser_withNode.AnonymousFunctiond3436d81c900
+AnonymousFunctiond3436d81cb00	qcm/qcm.js	/^	return _Scheduler_binding(function(callback)$/;"	f	function:_Browser_withWindow
+AnonymousFunctiond3436d81cc00	qcm/qcm.js	/^		_Browser_requestAnimationFrame(function() {$/;"	f	function:_Browser_withWindow.AnonymousFunctiond3436d81cb00
+AnonymousFunctiond3436d81cd00	qcm/qcm.js	/^var _Browser_call = F2(function(functionName, id)$/;"	f
+AnonymousFunctiond3436d81ce00	qcm/qcm.js	/^	return _Browser_withNode(id, function(node) {$/;"	f	function:AnonymousFunctiond3436d81cd00
+AnonymousFunctiond3436d81cf00	qcm/qcm.js	/^var _Browser_setViewport = F2(function(x, y)$/;"	f
+AnonymousFunctiond3436d81d000	qcm/qcm.js	/^	return _Browser_withWindow(function()$/;"	f	function:AnonymousFunctiond3436d81cf00
+AnonymousFunctiond3436d81d100	qcm/qcm.js	/^	return _Browser_withNode(id, function(node)$/;"	f	function:_Browser_getViewportOf
+AnonymousFunctiond3436d81d200	qcm/qcm.js	/^var _Browser_setViewportOf = F3(function(id, x, y)$/;"	f
+AnonymousFunctiond3436d81d300	qcm/qcm.js	/^	return _Browser_withNode(id, function(node)$/;"	f	function:AnonymousFunctiond3436d81d200
+AnonymousFunctiond3436d81d400	qcm/qcm.js	/^	return _Browser_withNode(id, function(node)$/;"	f	function:_Browser_getElement
+AnonymousFunctiond3436d81d500	qcm/qcm.js	/^	return A2($elm$core$Task$perform, $elm$core$Basics$never, _Scheduler_binding(function(callback)$/;"	f	function:_Browser_reload
+AnonymousFunctiond3436d81d600	qcm/qcm.js	/^	return A2($elm$core$Task$perform, $elm$core$Basics$never, _Scheduler_binding(function(callback)$/;"	f	function:_Browser_load
+AnonymousFunctiond3436d81d700	qcm/qcm.js	/^var _Bitwise_and = F2(function(a, b)$/;"	f
+AnonymousFunctiond3436d81d800	qcm/qcm.js	/^var _Bitwise_or = F2(function(a, b)$/;"	f
+AnonymousFunctiond3436d81d900	qcm/qcm.js	/^var _Bitwise_xor = F2(function(a, b)$/;"	f
+AnonymousFunctiond3436d81da00	qcm/qcm.js	/^var _Bitwise_shiftLeftBy = F2(function(offset, a)$/;"	f
+AnonymousFunctiond3436d81db00	qcm/qcm.js	/^var _Bitwise_shiftRightBy = F2(function(offset, a)$/;"	f
+AnonymousFunctiond3436d81dc00	qcm/qcm.js	/^var _Bitwise_shiftRightZfBy = F2(function(offset, a)$/;"	f
+AnonymousFunctiond3436d81dd00	qcm/qcm.js	/^	return _Scheduler_binding(function(callback)$/;"	f	function:_Time_now
+AnonymousFunctiond3436d81de00	qcm/qcm.js	/^var _Time_setInterval = F2(function(interval, task)$/;"	f
+AnonymousFunctiond3436d81df00	qcm/qcm.js	/^	return _Scheduler_binding(function(callback)$/;"	f	function:AnonymousFunctiond3436d81de00
+AnonymousFunctiond3436d81e000	qcm/qcm.js	/^		var id = setInterval(function() { _Scheduler_rawSpawn(task); }, interval);$/;"	f	function:AnonymousFunctiond3436d81de00.AnonymousFunctiond3436d81df00
+AnonymousFunctiond3436d81e100	qcm/qcm.js	/^		return function() { clearInterval(id); };$/;"	f	function:AnonymousFunctiond3436d81de00.AnonymousFunctiond3436d81df00
+AnonymousFunctiond3436d81e200	qcm/qcm.js	/^	return _Scheduler_binding(function(callback)$/;"	f	function:_Time_here
+AnonymousFunctiond3436d81e300	qcm/qcm.js	/^	return _Scheduler_binding(function(callback)$/;"	f	function:_Time_getZoneName
+AnonymousFunctiond3436d81e400	qcm/qcm.js	/^var _Markdown_toHtml = F3(function(options, factList, rawMarkdown)$/;"	f
+AnonymousFunctiond3436d81e500	qcm/qcm.js	/^var _Markdown_replace = F2(function(model, div)$/;"	f
+AnonymousFunctiond3436d81e600	qcm/qcm.js	/^	(function(){var block={newline:\/^\\n+\/,code:\/^( {4}[^\\n]+\\n*)+\/,fences:noop,hr:\/^( *[-*_/;"	f
+AnonymousFunctiond3436d81e700	qcm/qcm.js	/^	(function(){var block={newline:\/^\\n+\/,code:\/^( {4}[^\\n]+\\n*)+\/,fences:noop,hr:\/^( *[-*_/;"	f	function:marked
+AnonymousFunctiond3436d81e800	qcm/qcm.js	/^	(function(){var block={newline:\/^\\n+\/,code:\/^( {4}[^\\n]+\\n*)+\/,fences:noop,hr:\/^( *[-*_/;"	f
+AnonymousFunctiond3436d81e900	qcm/qcm.js	/^	(function(){var block={newline:\/^\\n+\/,code:\/^( {4}[^\\n]+\\n*)+\/,fences:noop,hr:\/^( *[-*_/;"	f
+AnonymousFunctiond3436d81ea00	qcm/qcm.js	/^	function (a, _v0) {$/;"	f
+AnonymousFunctiond3436d81eb00	qcm/qcm.js	/^	function (func, acc, t) {$/;"	f
+AnonymousFunctiond3436d81ec00	qcm/qcm.js	/^			function (key, value, list) {$/;"	f	function:$elm$core$Dict$toList
+AnonymousFunctiond3436d81ed00	qcm/qcm.js	/^			function (key, value, keyList) {$/;"	f	function:$elm$core$Dict$keys
+AnonymousFunctiond3436d81ee00	qcm/qcm.js	/^	function (func, baseCase, _v0) {$/;"	f
+AnonymousFunctiond3436d81ef00	qcm/qcm.js	/^			function (node, acc) {$/;"	f	function:AnonymousFunctiond3436d81ee00
+AnonymousFunctiond3436d81f000	qcm/qcm.js	/^	function (a, b) {$/;"	f
+AnonymousFunctiond3436d81f100	qcm/qcm.js	/^	function (a, b) {$/;"	f
+AnonymousFunctiond3436d81f200	qcm/qcm.js	/^	function (a, b) {$/;"	f
+AnonymousFunctiond3436d81f300	qcm/qcm.js	/^	function (sep, chunks) {$/;"	f
+AnonymousFunctiond3436d81f400	qcm/qcm.js	/^	function (sep, string) {$/;"	f
+AnonymousFunctiond3436d81f500	qcm/qcm.js	/^	function (func, acc, list) {$/;"	f
+AnonymousFunctiond3436d81f600	qcm/qcm.js	/^			function (_v0, i) {$/;"	f	function:$elm$core$List$length
+AnonymousFunctiond3436d81f700	qcm/qcm.js	/^	function (lo, hi, list) {$/;"	f
+AnonymousFunctiond3436d81f800	qcm/qcm.js	/^	function (lo, hi) {$/;"	f
+AnonymousFunctiond3436d81f900	qcm/qcm.js	/^	function (f, xs) {$/;"	f
+AnonymousFunctiond3436d81fa00	qcm/qcm.js	/^	function (i, error) {$/;"	f
+AnonymousFunctiond3436d81fb00	qcm/qcm.js	/^	function (error, context) {$/;"	f
+AnonymousFunctiond3436d81fc00	qcm/qcm.js	/^	function (a, b, c, d) {$/;"	f
+AnonymousFunctiond3436d81fd00	qcm/qcm.js	/^	function (base, number) {$/;"	f
+AnonymousFunctiond3436d81fe00	qcm/qcm.js	/^	function (f, x) {$/;"	f
+AnonymousFunctiond3436d81ff00	qcm/qcm.js	/^	function (x, f) {$/;"	f
+Button	qcm/src/Qcm.elm	/^import Bootstrap.Button as Button$/;"	n
+CDN	qcm/src/Qcm.elm	/^import Bootstrap.CDN as CDN$/;"	n
+ChangeNbQuestions String	qcm/src/Qcm.elm	/^    = ChangeNbQuestions String$/;"	c	type:Msg
+ChangeNiveau String	qcm/src/Qcm.elm	/^    | ChangeNiveau String$/;"	c	type:Msg
+ChangeNote String	qcm/src/Qcm.elm	/^    | ChangeNote String$/;"	c	type:Msg
+ChangeRange String	qcm/src/Qcm.elm	/^    | ChangeRange String$/;"	c	type:Msg
+ComputeP	qcm/src/Qcm.elm	/^    | ComputeP$/;"	c	type:Msg
+Desc2	qcm/src/desc2.ml	/^<p>Du point de vue du professeur, c’est la quantité inconnue <span$/;"	M
+Dict	qcm/src/Qcm.elm	/^import Dict as Dict$/;"	n
+E	qcm/src/Qcm.elm	/^import Json.Encode as E$/;"	n
+F	qcm/qcm.js	/^function F(arity, fun, wrapper) {$/;"	f
+F2	qcm/qcm.js	/^function F2(fun) {$/;"	f
+F3	qcm/qcm.js	/^function F3(fun) {$/;"	f
+F4	qcm/qcm.js	/^function F4(fun) {$/;"	f
+F5	qcm/qcm.js	/^function F5(fun) {$/;"	f
+F6	qcm/qcm.js	/^function F6(fun) {$/;"	f
+F7	qcm/qcm.js	/^function F7(fun) {$/;"	f
+F8	qcm/qcm.js	/^function F8(fun) {$/;"	f
+F9	qcm/qcm.js	/^function F9(fun) {$/;"	f
+Form	qcm/src/Qcm.elm	/^import Bootstrap.Form as Form$/;"	n
+InlineLexer	qcm/qcm.js	/^	(function(){var block={newline:\/^\\n+\/,code:\/^( {4}[^\\n]+\\n*)+\/,fences:noop,hr:\/^( *[-*_/;"	c
+InlineLexer	qcm/qcm.js	/^	(function(){var block={newline:\/^\\n+\/,code:\/^( {4}[^\\n]+\\n*)+\/,fences:noop,hr:\/^( *[-*_/;"	c	class:_Markdown_marked
+Input	qcm/src/Qcm.elm	/^import Bootstrap.Form.Input as Input$/;"	n
+Lexer	qcm/qcm.js	/^	(function(){var block={newline:\/^\\n+\/,code:\/^( {4}[^\\n]+\\n*)+\/,fences:noop,hr:\/^( *[-*_/;"	c
+Lexer	qcm/qcm.js	/^	(function(){var block={newline:\/^\\n+\/,code:\/^( {4}[^\\n]+\\n*)+\/,fences:noop,hr:\/^( *[-*_/;"	c	class:_Markdown_marked
+Model	qcm/src/Qcm.elm	/^type alias Model =$/;"	a
+Msg	qcm/src/Qcm.elm	/^type Msg$/;"	t
+Parser	qcm/qcm.js	/^	(function(){var block={newline:\/^\\n+\/,code:\/^( {4}[^\\n]+\\n*)+\/,fences:noop,hr:\/^( *[-*_/;"	c
+QCM	qcm/src/Qcm.elm	/^type alias QCM =$/;"	a
+Qcm	qcm/src/Qcm.elm	/^port module Qcm exposing (..)$/;"	m
+Renderer	qcm/qcm.js	/^	(function(){var block={newline:\/^\\n+\/,code:\/^( {4}[^\\n]+\\n*)+\/,fences:noop,hr:\/^( *[-*_/;"	c
+ShowHistogram (Dict.Dict Int Int)	qcm/src/Qcm.elm	/^    | ShowHistogram (Dict.Dict Int Int)$/;"	c	type:Msg
+Simulate	qcm/src/Qcm.elm	/^    | Simulate$/;"	c	type:Msg
+_Basics_acos	qcm/qcm.js	/^var _Basics_acos = Math.acos;$/;"	v
+_Basics_asin	qcm/qcm.js	/^var _Basics_asin = Math.asin;$/;"	v
+_Basics_atan	qcm/qcm.js	/^var _Basics_atan = Math.atan;$/;"	v
+_Basics_ceiling	qcm/qcm.js	/^var _Basics_ceiling = Math.ceil;$/;"	v
+_Basics_cos	qcm/qcm.js	/^var _Basics_cos = Math.cos;$/;"	v
+_Basics_e	qcm/qcm.js	/^var _Basics_e = Math.E;$/;"	v
+_Basics_floor	qcm/qcm.js	/^var _Basics_floor = Math.floor;$/;"	v
+_Basics_isInfinite	qcm/qcm.js	/^function _Basics_isInfinite(n) { return n === Infinity || n === -Infinity; }$/;"	f
+_Basics_isNaN	qcm/qcm.js	/^var _Basics_isNaN = isNaN;$/;"	v
+_Basics_log	qcm/qcm.js	/^var _Basics_log = Math.log;$/;"	v
+_Basics_not	qcm/qcm.js	/^function _Basics_not(bool) { return !bool; }$/;"	f
+_Basics_pi	qcm/qcm.js	/^var _Basics_pi = Math.PI;$/;"	v
+_Basics_round	qcm/qcm.js	/^var _Basics_round = Math.round;$/;"	v
+_Basics_sin	qcm/qcm.js	/^var _Basics_sin = Math.sin;$/;"	v
+_Basics_sqrt	qcm/qcm.js	/^var _Basics_sqrt = Math.sqrt;$/;"	v
+_Basics_tan	qcm/qcm.js	/^var _Basics_tan = Math.tan;$/;"	v
+_Basics_toFloat	qcm/qcm.js	/^function _Basics_toFloat(x) { return x; }$/;"	f
+_Basics_truncate	qcm/qcm.js	/^function _Basics_truncate(n) { return n | 0; }$/;"	f
+_Bitwise_complement	qcm/qcm.js	/^function _Bitwise_complement(a)$/;"	f
+_Browser_application	qcm/qcm.js	/^function _Browser_application(impl)$/;"	f
+_Browser_cancelAnimationFrame	qcm/qcm.js	/^var _Browser_cancelAnimationFrame =$/;"	v
+_Browser_doc	qcm/qcm.js	/^var _Browser_doc = typeof document !== 'undefined' ? document : _Browser_fakeNode;$/;"	v
+_Browser_document	qcm/qcm.js	/^var _Browser_document = _Debugger_document || F4(function(impl, flagDecoder, debugMetadata, args/;"	v
+_Browser_element	qcm/qcm.js	/^var _Browser_element = _Debugger_element || F4(function(impl, flagDecoder, debugMetadata, args)$/;"	v
+_Browser_fakeNode	qcm/qcm.js	/^var _Browser_fakeNode = { addEventListener: function() {}, removeEventListener: function() {} };$/;"	c
+_Browser_getElement	qcm/qcm.js	/^function _Browser_getElement(id)$/;"	f
+_Browser_getScene	qcm/qcm.js	/^function _Browser_getScene()$/;"	f
+_Browser_getUrl	qcm/qcm.js	/^function _Browser_getUrl()$/;"	f
+_Browser_getViewport	qcm/qcm.js	/^function _Browser_getViewport()$/;"	f
+_Browser_getViewportOf	qcm/qcm.js	/^function _Browser_getViewportOf(id)$/;"	f
+_Browser_load	qcm/qcm.js	/^function _Browser_load(url)$/;"	f
+_Browser_makeAnimator	qcm/qcm.js	/^function _Browser_makeAnimator(model, draw)$/;"	f
+_Browser_now	qcm/qcm.js	/^function _Browser_now()$/;"	f
+_Browser_rAF	qcm/qcm.js	/^function _Browser_rAF()$/;"	f
+_Browser_reload	qcm/qcm.js	/^function _Browser_reload(skipCache)$/;"	f
+_Browser_requestAnimationFrame	qcm/qcm.js	/^var _Browser_requestAnimationFrame =$/;"	v
+_Browser_visibilityInfo	qcm/qcm.js	/^function _Browser_visibilityInfo()$/;"	f
+_Browser_window	qcm/qcm.js	/^var _Browser_window = typeof window !== 'undefined' ? window : _Browser_fakeNode;$/;"	v
+_Browser_withNode	qcm/qcm.js	/^function _Browser_withNode(id, doStuff)$/;"	f
+_Browser_withWindow	qcm/qcm.js	/^function _Browser_withWindow(doStuff)$/;"	f
+_Char_fromCode	qcm/qcm.js	/^function _Char_fromCode(code)$/;"	f
+_Char_toCode	qcm/qcm.js	/^function _Char_toCode(char)$/;"	f
+_Char_toLocaleLower	qcm/qcm.js	/^function _Char_toLocaleLower(char)$/;"	f
+_Char_toLocaleUpper	qcm/qcm.js	/^function _Char_toLocaleUpper(char)$/;"	f
+_Char_toLower	qcm/qcm.js	/^function _Char_toLower(char)$/;"	f
+_Char_toUpper	qcm/qcm.js	/^function _Char_toUpper(char)$/;"	f
+_Debug_addSlashes	qcm/qcm.js	/^function _Debug_addSlashes(str, isChar)$/;"	f
+_Debug_charColor	qcm/qcm.js	/^function _Debug_charColor(ansi, string)$/;"	f
+_Debug_crash	qcm/qcm.js	/^function _Debug_crash(identifier)$/;"	f
+_Debug_crash_UNUSED	qcm/qcm.js	/^function _Debug_crash_UNUSED(identifier, fact1, fact2, fact3, fact4)$/;"	f
+_Debug_ctorColor	qcm/qcm.js	/^function _Debug_ctorColor(ansi, string)$/;"	f
+_Debug_fadeColor	qcm/qcm.js	/^function _Debug_fadeColor(ansi, string)$/;"	f
+_Debug_internalColor	qcm/qcm.js	/^function _Debug_internalColor(ansi, string)$/;"	f
+_Debug_numberColor	qcm/qcm.js	/^function _Debug_numberColor(ansi, string)$/;"	f
+_Debug_regionToString	qcm/qcm.js	/^function _Debug_regionToString(region)$/;"	f
+_Debug_stringColor	qcm/qcm.js	/^function _Debug_stringColor(ansi, string)$/;"	f
+_Debug_toAnsiString	qcm/qcm.js	/^function _Debug_toAnsiString(ansi, value)$/;"	f
+_Debug_toHexDigit	qcm/qcm.js	/^function _Debug_toHexDigit(n)$/;"	f
+_Debug_toString	qcm/qcm.js	/^function _Debug_toString(value)$/;"	f
+_Debug_toString_UNUSED	qcm/qcm.js	/^function _Debug_toString_UNUSED(value)$/;"	f
+_Debug_todo	qcm/qcm.js	/^function _Debug_todo(moduleName, region)$/;"	f
+_Debug_todoCase	qcm/qcm.js	/^function _Debug_todoCase(moduleName, region, value)$/;"	f
+_Debugger_document	qcm/qcm.js	/^var _Debugger_document;$/;"	v
+_Debugger_element	qcm/qcm.js	/^var _Debugger_element;$/;"	v
+_JsArray_empty	qcm/qcm.js	/^var _JsArray_empty = [];$/;"	v
+_JsArray_length	qcm/qcm.js	/^function _JsArray_length(array)$/;"	f
+_JsArray_singleton	qcm/qcm.js	/^function _JsArray_singleton(value)$/;"	f
+_Json_addEntry	qcm/qcm.js	/^function _Json_addEntry(func)$/;"	f
+_Json_decodeArray	qcm/qcm.js	/^function _Json_decodeArray(decoder) { return { $: 4, b: decoder }; }$/;"	f
+_Json_decodeKeyValuePairs	qcm/qcm.js	/^function _Json_decodeKeyValuePairs(decoder)$/;"	f
+_Json_decodeList	qcm/qcm.js	/^function _Json_decodeList(decoder) { return { $: 3, b: decoder }; }$/;"	f
+_Json_decodeNull	qcm/qcm.js	/^function _Json_decodeNull(value) { return { $: 5, c: value }; }$/;"	f
+_Json_decodePrim	qcm/qcm.js	/^function _Json_decodePrim(decoder)$/;"	f
+_Json_emptyArray	qcm/qcm.js	/^function _Json_emptyArray() { return []; }$/;"	f
+_Json_emptyObject	qcm/qcm.js	/^function _Json_emptyObject() { return {}; }$/;"	f
+_Json_equality	qcm/qcm.js	/^function _Json_equality(x, y)$/;"	f
+_Json_expecting	qcm/qcm.js	/^function _Json_expecting(type, value)$/;"	f
+_Json_fail	qcm/qcm.js	/^function _Json_fail(msg)$/;"	f
+_Json_isArray	qcm/qcm.js	/^function _Json_isArray(value)$/;"	f
+_Json_listEquality	qcm/qcm.js	/^function _Json_listEquality(aDecoders, bDecoders)$/;"	f
+_Json_mapMany	qcm/qcm.js	/^function _Json_mapMany(f, decoders)$/;"	f
+_Json_oneOf	qcm/qcm.js	/^function _Json_oneOf(decoders)$/;"	f
+_Json_runArrayDecoder	qcm/qcm.js	/^function _Json_runArrayDecoder(decoder, value, toElmValue)$/;"	f
+_Json_runHelp	qcm/qcm.js	/^function _Json_runHelp(decoder, value)$/;"	f
+_Json_succeed	qcm/qcm.js	/^function _Json_succeed(msg)$/;"	f
+_Json_toElmArray	qcm/qcm.js	/^function _Json_toElmArray(array)$/;"	f
+_Json_unwrap	qcm/qcm.js	/^function _Json_unwrap(value) { return value; }$/;"	f
+_Json_unwrap_UNUSED	qcm/qcm.js	/^function _Json_unwrap_UNUSED(value) { return value.a; }$/;"	f
+_Json_wrap	qcm/qcm.js	/^function _Json_wrap(value) { return value; }$/;"	f
+_Json_wrap_UNUSED	qcm/qcm.js	/^function _Json_wrap_UNUSED(value) { return { $: 0, a: value }; }$/;"	f
+_List_Cons	qcm/qcm.js	/^function _List_Cons(hd, tl) { return { $: 1, a: hd, b: tl }; }$/;"	f
+_List_Cons_UNUSED	qcm/qcm.js	/^function _List_Cons_UNUSED(hd, tl) { return { $: '::', a: hd, b: tl }; }$/;"	f
+_List_Nil	qcm/qcm.js	/^var _List_Nil = { $: 0 };$/;"	c
+_List_Nil_UNUSED	qcm/qcm.js	/^var _List_Nil_UNUSED = { $: '[]' };$/;"	c
+_List_fromArray	qcm/qcm.js	/^function _List_fromArray(arr)$/;"	f
+_List_toArray	qcm/qcm.js	/^function _List_toArray(xs)$/;"	f
+_Markdown_diff	qcm/qcm.js	/^function _Markdown_diff(x, y)$/;"	f
+_Markdown_formatOptions	qcm/qcm.js	/^function _Markdown_formatOptions(options)$/;"	f
+_Markdown_marked	qcm/qcm.js	/^var _Markdown_marked = function() {$/;"	f
+_Markdown_render	qcm/qcm.js	/^function _Markdown_render(model)$/;"	f
+_Platform_batch	qcm/qcm.js	/^function _Platform_batch(list)$/;"	f
+_Platform_checkPortName	qcm/qcm.js	/^function _Platform_checkPortName(name)$/;"	f
+_Platform_createManager	qcm/qcm.js	/^function _Platform_createManager(init, onEffects, onSelfMsg, cmdMap, subMap)$/;"	f
+_Platform_dispatchEffects	qcm/qcm.js	/^function _Platform_dispatchEffects(managers, cmdBag, subBag)$/;"	f
+_Platform_effectManagers	qcm/qcm.js	/^	_Platform_effectManagers[name] = {$/;"	c	class:_Platform_incomingPort
+_Platform_effectManagers	qcm/qcm.js	/^	_Platform_effectManagers[name] = {$/;"	c	class:_Platform_outgoingPort
+_Platform_effectManagers	qcm/qcm.js	/^var _Platform_effectManagers = {};$/;"	v
+_Platform_effectsActive	qcm/qcm.js	/^var _Platform_effectsActive = false;$/;"	v
+_Platform_effectsQueue	qcm/qcm.js	/^var _Platform_effectsQueue = [];$/;"	v
+_Platform_enqueueEffects	qcm/qcm.js	/^function _Platform_enqueueEffects(managers, cmdBag, subBag)$/;"	f
+_Platform_export	qcm/qcm.js	/^function _Platform_export(exports)$/;"	f
+_Platform_export_UNUSED	qcm/qcm.js	/^function _Platform_export_UNUSED(exports)$/;"	f
+_Platform_gatherEffects	qcm/qcm.js	/^function _Platform_gatherEffects(isCmd, bag, effectsDict, taggers)$/;"	f
+_Platform_incomingPort	qcm/qcm.js	/^function _Platform_incomingPort(name, converter)$/;"	f
+_Platform_initialize	qcm/qcm.js	/^function _Platform_initialize(flagDecoder, args, init, update, subscriptions, stepperBuilder)$/;"	f
+_Platform_insert	qcm/qcm.js	/^function _Platform_insert(isCmd, newEffect, effects)$/;"	f
+_Platform_instantiateManager	qcm/qcm.js	/^function _Platform_instantiateManager(info, sendToApp)$/;"	f
+_Platform_leaf	qcm/qcm.js	/^function _Platform_leaf(home)$/;"	f
+_Platform_mergeExportsDebug	qcm/qcm.js	/^function _Platform_mergeExportsDebug(moduleName, obj, exports)$/;"	f
+_Platform_mergeExportsProd	qcm/qcm.js	/^function _Platform_mergeExportsProd(obj, exports)$/;"	f
+_Platform_outgoingPort	qcm/qcm.js	/^function _Platform_outgoingPort(name, converter)$/;"	f
+_Platform_preload	qcm/qcm.js	/^var _Platform_preload;$/;"	v
+_Platform_registerPreload	qcm/qcm.js	/^function _Platform_registerPreload(url)$/;"	f
+_Platform_setupEffects	qcm/qcm.js	/^function _Platform_setupEffects(managers, sendToApp)$/;"	f
+_Platform_setupIncomingPort	qcm/qcm.js	/^function _Platform_setupIncomingPort(name, sendToApp)$/;"	f
+_Platform_setupOutgoingPort	qcm/qcm.js	/^function _Platform_setupOutgoingPort(name)$/;"	f
+_Platform_toEffect	qcm/qcm.js	/^function _Platform_toEffect(isCmd, home, taggers, value)$/;"	f
+_Process_sleep	qcm/qcm.js	/^function _Process_sleep(time)$/;"	f
+_Scheduler_binding	qcm/qcm.js	/^function _Scheduler_binding(callback)$/;"	f
+_Scheduler_enqueue	qcm/qcm.js	/^function _Scheduler_enqueue(proc)$/;"	f
+_Scheduler_fail	qcm/qcm.js	/^function _Scheduler_fail(error)$/;"	f
+_Scheduler_guid	qcm/qcm.js	/^var _Scheduler_guid = 0;$/;"	v
+_Scheduler_kill	qcm/qcm.js	/^function _Scheduler_kill(proc)$/;"	f
+_Scheduler_queue	qcm/qcm.js	/^var _Scheduler_queue = [];$/;"	v
+_Scheduler_rawSend	qcm/qcm.js	/^function _Scheduler_rawSend(proc, msg)$/;"	f
+_Scheduler_rawSpawn	qcm/qcm.js	/^function _Scheduler_rawSpawn(task)$/;"	f
+_Scheduler_receive	qcm/qcm.js	/^function _Scheduler_receive(callback)$/;"	f
+_Scheduler_spawn	qcm/qcm.js	/^function _Scheduler_spawn(task)$/;"	f
+_Scheduler_step	qcm/qcm.js	/^function _Scheduler_step(proc)$/;"	f
+_Scheduler_succeed	qcm/qcm.js	/^function _Scheduler_succeed(value)$/;"	f
+_Scheduler_working	qcm/qcm.js	/^var _Scheduler_working = false;$/;"	v
+_String_fromList	qcm/qcm.js	/^function _String_fromList(chars)$/;"	f
+_String_fromNumber	qcm/qcm.js	/^function _String_fromNumber(number)$/;"	f
+_String_length	qcm/qcm.js	/^function _String_length(str)$/;"	f
+_String_lines	qcm/qcm.js	/^function _String_lines(str)$/;"	f
+_String_reverse	qcm/qcm.js	/^function _String_reverse(str)$/;"	f
+_String_toFloat	qcm/qcm.js	/^function _String_toFloat(s)$/;"	f
+_String_toInt	qcm/qcm.js	/^function _String_toInt(str)$/;"	f
+_String_toLower	qcm/qcm.js	/^function _String_toLower(str)$/;"	f
+_String_toUpper	qcm/qcm.js	/^function _String_toUpper(str)$/;"	f
+_String_trim	qcm/qcm.js	/^function _String_trim(str)$/;"	f
+_String_trimLeft	qcm/qcm.js	/^function _String_trimLeft(str)$/;"	f
+_String_trimRight	qcm/qcm.js	/^function _String_trimRight(str)$/;"	f
+_String_uncons	qcm/qcm.js	/^function _String_uncons(string)$/;"	f
+_String_words	qcm/qcm.js	/^function _String_words(str)$/;"	f
+_Time_getZoneName	qcm/qcm.js	/^function _Time_getZoneName()$/;"	f
+_Time_here	qcm/qcm.js	/^function _Time_here()$/;"	f
+_Time_now	qcm/qcm.js	/^function _Time_now(millisToPosix)$/;"	f
+_Utils_Tuple0	qcm/qcm.js	/^var _Utils_Tuple0 = 0;$/;"	v
+_Utils_Tuple0_UNUSED	qcm/qcm.js	/^var _Utils_Tuple0_UNUSED = { $: '#0' };$/;"	c
+_Utils_Tuple2	qcm/qcm.js	/^function _Utils_Tuple2(a, b) { return { a: a, b: b }; }$/;"	f
+_Utils_Tuple2_UNUSED	qcm/qcm.js	/^function _Utils_Tuple2_UNUSED(a, b) { return { $: '#2', a: a, b: b }; }$/;"	f
+_Utils_Tuple3	qcm/qcm.js	/^function _Utils_Tuple3(a, b, c) { return { a: a, b: b, c: c }; }$/;"	f
+_Utils_Tuple3_UNUSED	qcm/qcm.js	/^function _Utils_Tuple3_UNUSED(a, b, c) { return { $: '#3', a: a, b: b, c: c }; }$/;"	f
+_Utils_ap	qcm/qcm.js	/^function _Utils_ap(xs, ys)$/;"	f
+_Utils_chr	qcm/qcm.js	/^function _Utils_chr(c) { return c; }$/;"	f
+_Utils_chr_UNUSED	qcm/qcm.js	/^function _Utils_chr_UNUSED(c) { return new String(c); }$/;"	f
+_Utils_cmp	qcm/qcm.js	/^function _Utils_cmp(x, y, ord)$/;"	f
+_Utils_eq	qcm/qcm.js	/^function _Utils_eq(x, y)$/;"	f
+_Utils_eqHelp	qcm/qcm.js	/^function _Utils_eqHelp(x, y, depth, stack)$/;"	f
+_Utils_update	qcm/qcm.js	/^function _Utils_update(oldRecord, updatedFields)$/;"	f
+_VirtualDom_POSTFIX	qcm/qcm.js	/^var _VirtualDom_POSTFIX = '_elmW6BL';$/;"	v
+_VirtualDom_addClass	qcm/qcm.js	/^function _VirtualDom_addClass(object, key, newClass)$/;"	f
+_VirtualDom_addDomNodes	qcm/qcm.js	/^function _VirtualDom_addDomNodes(domNode, vNode, patches, eventNode)$/;"	f
+_VirtualDom_addDomNodesHelp	qcm/qcm.js	/^function _VirtualDom_addDomNodesHelp(domNode, vNode, patches, i, low, high, eventNode)$/;"	f
+_VirtualDom_appendChild	qcm/qcm.js	/^function _VirtualDom_appendChild(parent, child)$/;"	f
+_VirtualDom_applyAttrs	qcm/qcm.js	/^function _VirtualDom_applyAttrs(domNode, attrs)$/;"	f
+_VirtualDom_applyAttrsNS	qcm/qcm.js	/^function _VirtualDom_applyAttrsNS(domNode, nsAttrs)$/;"	f
+_VirtualDom_applyEvents	qcm/qcm.js	/^function _VirtualDom_applyEvents(domNode, eventNode, events)$/;"	f
+_VirtualDom_applyFacts	qcm/qcm.js	/^function _VirtualDom_applyFacts(domNode, eventNode, facts)$/;"	f
+_VirtualDom_applyPatch	qcm/qcm.js	/^function _VirtualDom_applyPatch(domNode, patch)$/;"	f
+_VirtualDom_applyPatchRedraw	qcm/qcm.js	/^function _VirtualDom_applyPatchRedraw(domNode, vNode, eventNode)$/;"	f
+_VirtualDom_applyPatchReorder	qcm/qcm.js	/^function _VirtualDom_applyPatchReorder(domNode, patch)$/;"	f
+_VirtualDom_applyPatchReorderEndInsertsHelp	qcm/qcm.js	/^function _VirtualDom_applyPatchReorderEndInsertsHelp(endInserts, patch)$/;"	f
+_VirtualDom_applyPatches	qcm/qcm.js	/^function _VirtualDom_applyPatches(rootDomNode, oldVirtualNode, patches, eventNode)$/;"	f
+_VirtualDom_applyPatchesHelp	qcm/qcm.js	/^function _VirtualDom_applyPatchesHelp(rootDomNode, patches)$/;"	f
+_VirtualDom_applyStyles	qcm/qcm.js	/^function _VirtualDom_applyStyles(domNode, styles)$/;"	f
+_VirtualDom_custom	qcm/qcm.js	/^function _VirtualDom_custom(factList, model, render, diff)$/;"	f
+_VirtualDom_dekey	qcm/qcm.js	/^function _VirtualDom_dekey(keyedNode)$/;"	f
+_VirtualDom_diff	qcm/qcm.js	/^function _VirtualDom_diff(x, y)$/;"	f
+_VirtualDom_diffFacts	qcm/qcm.js	/^function _VirtualDom_diffFacts(x, y, category)$/;"	f
+_VirtualDom_diffHelp	qcm/qcm.js	/^function _VirtualDom_diffHelp(x, y, patches, index)$/;"	f
+_VirtualDom_diffKeyedKids	qcm/qcm.js	/^function _VirtualDom_diffKeyedKids(xParent, yParent, patches, rootIndex)$/;"	f
+_VirtualDom_diffKids	qcm/qcm.js	/^function _VirtualDom_diffKids(xParent, yParent, patches, index)$/;"	f
+_VirtualDom_diffNodes	qcm/qcm.js	/^function _VirtualDom_diffNodes(x, y, patches, index, diffKids)$/;"	f
+_VirtualDom_divertHrefToApp	qcm/qcm.js	/^var _VirtualDom_divertHrefToApp;$/;"	v
+_VirtualDom_doc	qcm/qcm.js	/^var _VirtualDom_doc = typeof document !== 'undefined' ? document : {};$/;"	v
+_VirtualDom_equalEvents	qcm/qcm.js	/^function _VirtualDom_equalEvents(x, y)$/;"	f
+_VirtualDom_insertNode	qcm/qcm.js	/^function _VirtualDom_insertNode(changes, localPatches, key, vnode, yIndex, inserts)$/;"	f
+_VirtualDom_keyedNode	qcm/qcm.js	/^var _VirtualDom_keyedNode = _VirtualDom_keyedNodeNS(undefined);$/;"	v
+_VirtualDom_makeCallback	qcm/qcm.js	/^function _VirtualDom_makeCallback(eventNode, initialHandler)$/;"	f
+_VirtualDom_mapHandler	qcm/qcm.js	/^function _VirtualDom_mapHandler(func, handler)$/;"	f
+_VirtualDom_noInnerHtmlOrFormAction	qcm/qcm.js	/^function _VirtualDom_noInnerHtmlOrFormAction(key)$/;"	f
+_VirtualDom_noJavaScriptOrHtmlUri	qcm/qcm.js	/^function _VirtualDom_noJavaScriptOrHtmlUri(value)$/;"	f
+_VirtualDom_noJavaScriptOrHtmlUri_UNUSED	qcm/qcm.js	/^function _VirtualDom_noJavaScriptOrHtmlUri_UNUSED(value)$/;"	f
+_VirtualDom_noJavaScriptUri	qcm/qcm.js	/^function _VirtualDom_noJavaScriptUri(value)$/;"	f
+_VirtualDom_noJavaScriptUri_UNUSED	qcm/qcm.js	/^function _VirtualDom_noJavaScriptUri_UNUSED(value)$/;"	f
+_VirtualDom_noOnOrFormAction	qcm/qcm.js	/^function _VirtualDom_noOnOrFormAction(key)$/;"	f
+_VirtualDom_noScript	qcm/qcm.js	/^function _VirtualDom_noScript(tag)$/;"	f
+_VirtualDom_node	qcm/qcm.js	/^var _VirtualDom_node = _VirtualDom_nodeNS(undefined);$/;"	v
+_VirtualDom_organizeFacts	qcm/qcm.js	/^function _VirtualDom_organizeFacts(factList)$/;"	f
+_VirtualDom_pairwiseRefEqual	qcm/qcm.js	/^function _VirtualDom_pairwiseRefEqual(as, bs)$/;"	f
+_VirtualDom_passiveSupported	qcm/qcm.js	/^var _VirtualDom_passiveSupported;$/;"	v
+_VirtualDom_pushPatch	qcm/qcm.js	/^function _VirtualDom_pushPatch(patches, type, index, data)$/;"	f
+_VirtualDom_removeNode	qcm/qcm.js	/^function _VirtualDom_removeNode(changes, localPatches, key, vnode, index)$/;"	f
+_VirtualDom_render	qcm/qcm.js	/^function _VirtualDom_render(vNode, eventNode)$/;"	f
+_VirtualDom_text	qcm/qcm.js	/^function _VirtualDom_text(string)$/;"	f
+_VirtualDom_thunk	qcm/qcm.js	/^function _VirtualDom_thunk(refs, thunk)$/;"	f
+_VirtualDom_virtualize	qcm/qcm.js	/^function _VirtualDom_virtualize(node)$/;"	f
+a	qcm/qcm.js	/^		a: _Platform_setupIncomingPort$/;"	p	class:_Platform_incomingPort._Platform_effectManagers
+a	qcm/qcm.js	/^		a: _Platform_setupOutgoingPort$/;"	p	class:_Platform_outgoingPort._Platform_effectManagers
+a$	qcm/qcm.js	/^var $rundis$elm_bootstrap$Bootstrap$Grid$Internal$defaultRowOptions = {aJ: _List_Nil, aY: $elm$c/;"	p	class:$rundis$elm_bootstrap$Bootstrap$Grid$Internal$defaultRowOptions
+a0	qcm/qcm.js	/^var $rundis$elm_bootstrap$Bootstrap$Grid$Internal$defaultRowOptions = {aJ: _List_Nil, aY: $elm$c/;"	p	class:$rundis$elm_bootstrap$Bootstrap$Grid$Internal$defaultRowOptions
+aC	qcm/qcm.js	/^var $rundis$elm_bootstrap$Bootstrap$Grid$Internal$defaultColOptions = {aC: $elm$core$Maybe$Nothi/;"	p	class:$rundis$elm_bootstrap$Bootstrap$Grid$Internal$defaultColOptions
+aD	qcm/qcm.js	/^var $rundis$elm_bootstrap$Bootstrap$Grid$Internal$defaultColOptions = {aC: $elm$core$Maybe$Nothi/;"	p	class:$rundis$elm_bootstrap$Bootstrap$Grid$Internal$defaultColOptions
+aE	qcm/qcm.js	/^var $rundis$elm_bootstrap$Bootstrap$Grid$Internal$defaultColOptions = {aC: $elm$core$Maybe$Nothi/;"	p	class:$rundis$elm_bootstrap$Bootstrap$Grid$Internal$defaultColOptions
+aF	qcm/qcm.js	/^var $rundis$elm_bootstrap$Bootstrap$Grid$Internal$defaultColOptions = {aC: $elm$core$Maybe$Nothi/;"	p	class:$rundis$elm_bootstrap$Bootstrap$Grid$Internal$defaultColOptions
+aG	qcm/qcm.js	/^var $rundis$elm_bootstrap$Bootstrap$Grid$Internal$defaultColOptions = {aC: $elm$core$Maybe$Nothi/;"	p	class:$rundis$elm_bootstrap$Bootstrap$Grid$Internal$defaultColOptions
+aJ	qcm/qcm.js	/^var $rundis$elm_bootstrap$Bootstrap$Form$Input$defaultOptions = {aJ: _List_Nil, aW: false, ae: $/;"	p	class:$rundis$elm_bootstrap$Bootstrap$Form$Input$defaultOptions
+aJ	qcm/qcm.js	/^var $rundis$elm_bootstrap$Bootstrap$Form$defaultOptions = {aJ: _List_Nil};$/;"	p	class:$rundis$elm_bootstrap$Bootstrap$Form$defaultOptions
+aJ	qcm/qcm.js	/^var $rundis$elm_bootstrap$Bootstrap$Grid$Internal$defaultColOptions = {aC: $elm$core$Maybe$Nothi/;"	p	class:$rundis$elm_bootstrap$Bootstrap$Grid$Internal$defaultColOptions
+aJ	qcm/qcm.js	/^var $rundis$elm_bootstrap$Bootstrap$Grid$Internal$defaultRowOptions = {aJ: _List_Nil, aY: $elm$c/;"	p	class:$rundis$elm_bootstrap$Bootstrap$Grid$Internal$defaultRowOptions
+aJ	qcm/qcm.js	/^var $rundis$elm_bootstrap$Bootstrap$Internal$Button$defaultOptions = {aJ: _List_Nil, aM: false, /;"	p	class:$rundis$elm_bootstrap$Bootstrap$Internal$Button$defaultOptions
+aM	qcm/qcm.js	/^var $rundis$elm_bootstrap$Bootstrap$Internal$Button$defaultOptions = {aJ: _List_Nil, aM: false, /;"	p	class:$rundis$elm_bootstrap$Bootstrap$Internal$Button$defaultOptions
+aW	qcm/qcm.js	/^var $rundis$elm_bootstrap$Bootstrap$Form$Input$defaultOptions = {aJ: _List_Nil, aW: false, ae: $/;"	p	class:$rundis$elm_bootstrap$Bootstrap$Form$Input$defaultOptions
+aW	qcm/qcm.js	/^var $rundis$elm_bootstrap$Bootstrap$Internal$Button$defaultOptions = {aJ: _List_Nil, aM: false, /;"	p	class:$rundis$elm_bootstrap$Bootstrap$Internal$Button$defaultOptions
+aY	qcm/qcm.js	/^var $rundis$elm_bootstrap$Bootstrap$Grid$Internal$defaultRowOptions = {aJ: _List_Nil, aY: $elm$c/;"	p	class:$rundis$elm_bootstrap$Bootstrap$Grid$Internal$defaultRowOptions
+aZ	qcm/qcm.js	/^var $rundis$elm_bootstrap$Bootstrap$Grid$Internal$defaultRowOptions = {aJ: _List_Nil, aY: $elm$c/;"	p	class:$rundis$elm_bootstrap$Bootstrap$Grid$Internal$defaultRowOptions
+a_	qcm/qcm.js	/^var $rundis$elm_bootstrap$Bootstrap$Grid$Internal$defaultRowOptions = {aJ: _List_Nil, aY: $elm$c/;"	p	class:$rundis$elm_bootstrap$Bootstrap$Grid$Internal$defaultRowOptions
+addEventListener	qcm/qcm.js	/^var _Browser_fakeNode = { addEventListener: function() {}, removeEventListener: function() {} };$/;"	m	class:_Browser_fakeNode
+ae	qcm/qcm.js	/^var $rundis$elm_bootstrap$Bootstrap$Form$Input$defaultOptions = {aJ: _List_Nil, aW: false, ae: $/;"	p	class:$rundis$elm_bootstrap$Bootstrap$Form$Input$defaultOptions
+align	qcm/qcm.js	/^		var align = function (a) {$/;"	f	function:AnonymousFunctiond3436d8117700
+align	qcm/qcm.js	/^	(function(){var block={newline:\/^\\n+\/,code:\/^( {4}[^\\n]+\\n*)+\/,fences:noop,hr:\/^( *[-*_/;"	p	class:Parser.tok.flags
+align	qcm/qcm.js	/^	(function(){var block={newline:\/^\\n+\/,code:\/^( {4}[^\\n]+\\n*)+\/,fences:noop,hr:\/^( *[-*_/;"	p	class:_Markdown_marked.item
+align	qcm/qcm.js	/^	var align = function (a) {$/;"	f	function:$rundis$elm_bootstrap$Bootstrap$Grid$Internal$hAlignsToAttributes
+an	qcm/qcm.js	/^var $rundis$elm_bootstrap$Bootstrap$Form$Input$defaultOptions = {aJ: _List_Nil, aW: false, ae: $/;"	p	class:$rundis$elm_bootstrap$Bootstrap$Form$Input$defaultOptions
+ap	qcm/qcm.js	/^var $rundis$elm_bootstrap$Bootstrap$Form$Input$defaultOptions = {aJ: _List_Nil, aW: false, ae: $/;"	p	class:$rundis$elm_bootstrap$Bootstrap$Form$Input$defaultOptions
+applyTaggers	qcm/qcm.js	/^	function applyTaggers(x)$/;"	f	function:_Platform_toEffect
+at	qcm/qcm.js	/^var $rundis$elm_bootstrap$Bootstrap$Grid$Internal$defaultColOptions = {aC: $elm$core$Maybe$Nothi/;"	p	class:$rundis$elm_bootstrap$Bootstrap$Grid$Internal$defaultColOptions
+au	qcm/qcm.js	/^var $rundis$elm_bootstrap$Bootstrap$Grid$Internal$defaultColOptions = {aC: $elm$core$Maybe$Nothi/;"	p	class:$rundis$elm_bootstrap$Bootstrap$Grid$Internal$defaultColOptions
+autolink	qcm/qcm.js	/^	(function(){var block={newline:\/^\\n+\/,code:\/^( {4}[^\\n]+\\n*)+\/,fences:noop,hr:\/^( *[-*_/;"	p	class:_Markdown_marked.inline
+av	qcm/qcm.js	/^var $rundis$elm_bootstrap$Bootstrap$Grid$Internal$defaultColOptions = {aC: $elm$core$Maybe$Nothi/;"	p	class:$rundis$elm_bootstrap$Bootstrap$Grid$Internal$defaultColOptions
+avh4/elm-color	qcm/elm-stuff/generated-code/elm-community/elm-test/0.19.1-revision7/dependencies.2cb00706e77346fd4bd8db68e575b86998853bea08ebdd49aa7da2b8ace8d4e7.json	/^{"direct":{"elm\/browser":"1.0.2","elm\/core":"1.0.5","elm\/html":"1.0.0","elm\/json":"1.1.3","e/;"	s	object:indirect
+avh4/elm-color	qcm/elm-stuff/generated-code/elm-community/elm-test/0.19.1-revision7/dependencies.7c341f3421c53fd078ebfcbbcadf006b2e2608796f3f8226a027b90c0df9fa2f.json	/^{"direct":{"elm\/browser":"1.0.2","elm\/core":"1.0.5","elm\/html":"1.0.0","elm\/json":"1.1.3","e/;"	s	object:indirect
+avh4/elm-color	qcm/elm-stuff/generated-code/elm-community/elm-test/0.19.1-revision7/elm.json	/^            "avh4\/elm-color": "1.0.0",$/;"	s	object:dependencies.indirect
+avh4/elm-color	qcm/elm.json	/^            "avh4\/elm-color": "1.0.0",$/;"	s	object:dependencies.indirect
+aw	qcm/qcm.js	/^var $rundis$elm_bootstrap$Bootstrap$Grid$Internal$defaultColOptions = {aC: $elm$core$Maybe$Nothi/;"	p	class:$rundis$elm_bootstrap$Bootstrap$Grid$Internal$defaultColOptions
+ax	qcm/qcm.js	/^var $rundis$elm_bootstrap$Bootstrap$Grid$Internal$defaultColOptions = {aC: $elm$core$Maybe$Nothi/;"	p	class:$rundis$elm_bootstrap$Bootstrap$Grid$Internal$defaultColOptions
+b	qcm/qcm.js	/^				b: proc.f.b,$/;"	p	class:proc.g
+bA	qcm/qcm.js	/^var $rundis$elm_bootstrap$Bootstrap$Grid$Internal$defaultColOptions = {aC: $elm$core$Maybe$Nothi/;"	p	class:$rundis$elm_bootstrap$Bootstrap$Grid$Internal$defaultColOptions
+bC	qcm/qcm.js	/^var $rundis$elm_bootstrap$Bootstrap$Form$Input$defaultOptions = {aJ: _List_Nil, aW: false, ae: $/;"	p	class:$rundis$elm_bootstrap$Bootstrap$Form$Input$defaultOptions
+bI	qcm/qcm.js	/^var $rundis$elm_bootstrap$Bootstrap$Form$Input$defaultOptions = {aJ: _List_Nil, aW: false, ae: $/;"	p	class:$rundis$elm_bootstrap$Bootstrap$Form$Input$defaultOptions
+bI	qcm/qcm.js	/^var $rundis$elm_bootstrap$Bootstrap$Internal$Button$defaultOptions = {aJ: _List_Nil, aM: false, /;"	p	class:$rundis$elm_bootstrap$Bootstrap$Internal$Button$defaultOptions
+bK	qcm/qcm.js	/^var $rundis$elm_bootstrap$Bootstrap$Grid$Internal$defaultColOptions = {aC: $elm$core$Maybe$Nothi/;"	p	class:$rundis$elm_bootstrap$Bootstrap$Grid$Internal$defaultColOptions
+bO	qcm/qcm.js	/^var $rundis$elm_bootstrap$Bootstrap$Grid$Internal$defaultRowOptions = {aJ: _List_Nil, aY: $elm$c/;"	p	class:$rundis$elm_bootstrap$Bootstrap$Grid$Internal$defaultRowOptions
+bP	qcm/qcm.js	/^var $rundis$elm_bootstrap$Bootstrap$Grid$Internal$defaultRowOptions = {aJ: _List_Nil, aY: $elm$c/;"	p	class:$rundis$elm_bootstrap$Bootstrap$Grid$Internal$defaultRowOptions
+bQ	qcm/qcm.js	/^var $rundis$elm_bootstrap$Bootstrap$Grid$Internal$defaultRowOptions = {aJ: _List_Nil, aY: $elm$c/;"	p	class:$rundis$elm_bootstrap$Bootstrap$Grid$Internal$defaultRowOptions
+bR	qcm/qcm.js	/^var $rundis$elm_bootstrap$Bootstrap$Grid$Internal$defaultRowOptions = {aJ: _List_Nil, aY: $elm$c/;"	p	class:$rundis$elm_bootstrap$Bootstrap$Grid$Internal$defaultRowOptions
+bS	qcm/qcm.js	/^var $rundis$elm_bootstrap$Bootstrap$Grid$Internal$defaultRowOptions = {aJ: _List_Nil, aY: $elm$c/;"	p	class:$rundis$elm_bootstrap$Bootstrap$Grid$Internal$defaultRowOptions
+bT	qcm/qcm.js	/^var $rundis$elm_bootstrap$Bootstrap$Form$Input$defaultOptions = {aJ: _List_Nil, aW: false, ae: $/;"	p	class:$rundis$elm_bootstrap$Bootstrap$Form$Input$defaultOptions
+ba	qcm/qcm.js	/^var $rundis$elm_bootstrap$Bootstrap$Grid$Internal$defaultColOptions = {aC: $elm$core$Maybe$Nothi/;"	p	class:$rundis$elm_bootstrap$Bootstrap$Grid$Internal$defaultColOptions
+bb	qcm/qcm.js	/^var $rundis$elm_bootstrap$Bootstrap$Grid$Internal$defaultColOptions = {aC: $elm$core$Maybe$Nothi/;"	p	class:$rundis$elm_bootstrap$Bootstrap$Grid$Internal$defaultColOptions
+bc	qcm/qcm.js	/^var $rundis$elm_bootstrap$Bootstrap$Grid$Internal$defaultColOptions = {aC: $elm$core$Maybe$Nothi/;"	p	class:$rundis$elm_bootstrap$Bootstrap$Grid$Internal$defaultColOptions
+be	qcm/qcm.js	/^var $rundis$elm_bootstrap$Bootstrap$Grid$Internal$defaultColOptions = {aC: $elm$core$Maybe$Nothi/;"	p	class:$rundis$elm_bootstrap$Bootstrap$Grid$Internal$defaultColOptions
+bernoulli	qcm/src/Qcm.elm	/^bernoulli p =$/;"	f
+bf	qcm/qcm.js	/^var $rundis$elm_bootstrap$Bootstrap$Grid$Internal$defaultColOptions = {aC: $elm$core$Maybe$Nothi/;"	p	class:$rundis$elm_bootstrap$Bootstrap$Grid$Internal$defaultColOptions
+binom	qcm/src/Qcm.elm	/^binom n k =$/;"	f
+binomM	qcm/src/Qcm.elm	/^binomM mem n k =$/;"	f
+binomiale	qcm/src/Qcm.elm	/^binomiale n p =$/;"	f
+bj	qcm/qcm.js	/^var $rundis$elm_bootstrap$Bootstrap$Form$Input$defaultOptions = {aJ: _List_Nil, aW: false, ae: $/;"	p	class:$rundis$elm_bootstrap$Bootstrap$Form$Input$defaultOptions
+bl	qcm/qcm.js	/^var $rundis$elm_bootstrap$Bootstrap$Grid$Internal$defaultColOptions = {aC: $elm$core$Maybe$Nothi/;"	p	class:$rundis$elm_bootstrap$Bootstrap$Grid$Internal$defaultColOptions
+block	qcm/qcm.js	/^	(function(){var block={newline:\/^\\n+\/,code:\/^( {4}[^\\n]+\\n*)+\/,fences:noop,hr:\/^( *[-*_/;"	c	class:_Markdown_marked
+blockquote	qcm/qcm.js	/^	(function(){var block={newline:\/^\\n+\/,code:\/^( {4}[^\\n]+\\n*)+\/,fences:noop,hr:\/^( *[-*_/;"	m	class:Renderer
+blockquote	qcm/qcm.js	/^	(function(){var block={newline:\/^\\n+\/,code:\/^( {4}[^\\n]+\\n*)+\/,fences:noop,hr:\/^( *[-*_/;"	p	class:_Markdown_marked.block
+bm	qcm/qcm.js	/^var $rundis$elm_bootstrap$Bootstrap$Grid$Internal$defaultColOptions = {aC: $elm$core$Maybe$Nothi/;"	p	class:$rundis$elm_bootstrap$Bootstrap$Grid$Internal$defaultColOptions
+bn	qcm/qcm.js	/^var $rundis$elm_bootstrap$Bootstrap$Grid$Internal$defaultColOptions = {aC: $elm$core$Maybe$Nothi/;"	p	class:$rundis$elm_bootstrap$Bootstrap$Grid$Internal$defaultColOptions
+bo	qcm/qcm.js	/^var $rundis$elm_bootstrap$Bootstrap$Grid$Internal$defaultColOptions = {aC: $elm$core$Maybe$Nothi/;"	p	class:$rundis$elm_bootstrap$Bootstrap$Grid$Internal$defaultColOptions
+bp	qcm/qcm.js	/^var $rundis$elm_bootstrap$Bootstrap$Grid$Internal$defaultColOptions = {aC: $elm$core$Maybe$Nothi/;"	p	class:$rundis$elm_bootstrap$Bootstrap$Grid$Internal$defaultColOptions
+bq	qcm/qcm.js	/^var $rundis$elm_bootstrap$Bootstrap$Form$Input$defaultOptions = {aJ: _List_Nil, aW: false, ae: $/;"	p	class:$rundis$elm_bootstrap$Bootstrap$Form$Input$defaultOptions
+br	qcm/qcm.js	/^	(function(){var block={newline:\/^\\n+\/,code:\/^( {4}[^\\n]+\\n*)+\/,fences:noop,hr:\/^( *[-*_/;"	m	class:Renderer
+br	qcm/qcm.js	/^	(function(){var block={newline:\/^\\n+\/,code:\/^( {4}[^\\n]+\\n*)+\/,fences:noop,hr:\/^( *[-*_/;"	p	class:_Markdown_marked.inline
+br	qcm/qcm.js	/^var $rundis$elm_bootstrap$Bootstrap$Grid$Internal$defaultColOptions = {aC: $elm$core$Maybe$Nothi/;"	p	class:$rundis$elm_bootstrap$Bootstrap$Grid$Internal$defaultColOptions
+breaks	qcm/qcm.js	/^	(function(){var block={newline:\/^\\n+\/,code:\/^( {4}[^\\n]+\\n*)+\/,fences:noop,hr:\/^( *[-*_/;"	p	class:marked.defaults
+bs	qcm/qcm.js	/^var $rundis$elm_bootstrap$Bootstrap$Grid$Internal$defaultColOptions = {aC: $elm$core$Maybe$Nothi/;"	p	class:$rundis$elm_bootstrap$Bootstrap$Grid$Internal$defaultColOptions
+bt	qcm/qcm.js	/^var $rundis$elm_bootstrap$Bootstrap$Grid$Internal$defaultColOptions = {aC: $elm$core$Maybe$Nothi/;"	p	class:$rundis$elm_bootstrap$Bootstrap$Grid$Internal$defaultColOptions
+bu	qcm/qcm.js	/^var $rundis$elm_bootstrap$Bootstrap$Grid$Internal$defaultColOptions = {aC: $elm$core$Maybe$Nothi/;"	p	class:$rundis$elm_bootstrap$Bootstrap$Grid$Internal$defaultColOptions
+bv	qcm/qcm.js	/^var $rundis$elm_bootstrap$Bootstrap$Grid$Internal$defaultColOptions = {aC: $elm$core$Maybe$Nothi/;"	p	class:$rundis$elm_bootstrap$Bootstrap$Grid$Internal$defaultColOptions
+bw	qcm/qcm.js	/^var $rundis$elm_bootstrap$Bootstrap$Grid$Internal$defaultColOptions = {aC: $elm$core$Maybe$Nothi/;"	p	class:$rundis$elm_bootstrap$Bootstrap$Grid$Internal$defaultColOptions
+bx	qcm/qcm.js	/^var $rundis$elm_bootstrap$Bootstrap$Grid$Internal$defaultColOptions = {aC: $elm$core$Maybe$Nothi/;"	p	class:$rundis$elm_bootstrap$Bootstrap$Grid$Internal$defaultColOptions
+by	qcm/qcm.js	/^var $rundis$elm_bootstrap$Bootstrap$Grid$Internal$defaultColOptions = {aC: $elm$core$Maybe$Nothi/;"	p	class:$rundis$elm_bootstrap$Bootstrap$Grid$Internal$defaultColOptions
+bz	qcm/qcm.js	/^var $rundis$elm_bootstrap$Bootstrap$Grid$Internal$defaultColOptions = {aC: $elm$core$Maybe$Nothi/;"	p	class:$rundis$elm_bootstrap$Bootstrap$Grid$Internal$defaultColOptions
+c	qcm/qcm.js	/^			c: 0,$/;"	p	class:_VirtualDom_insertNode.entry
+c	qcm/qcm.js	/^			c: 1,$/;"	p	class:_VirtualDom_removeNode.changes
+callback	qcm/qcm.js	/^	function callback(event)$/;"	f	function:_VirtualDom_makeCallback
+cells	qcm/qcm.js	/^	(function(){var block={newline:\/^\\n+\/,code:\/^( {4}[^\\n]+\\n*)+\/,fences:noop,hr:\/^( *[-*_/;"	p	class:_Markdown_marked.item
+changes	qcm/qcm.js	/^		changes[key] = {$/;"	c	class:_VirtualDom_removeNode
+code	qcm/qcm.js	/^	(function(){var block={newline:\/^\\n+\/,code:\/^( {4}[^\\n]+\\n*)+\/,fences:noop,hr:\/^( *[-*_/;"	m	class:Renderer
+code	qcm/qcm.js	/^	(function(){var block={newline:\/^\\n+\/,code:\/^( {4}[^\\n]+\\n*)+\/,fences:noop,hr:\/^( *[-*_/;"	p	class:_Markdown_marked.block
+code	qcm/qcm.js	/^	(function(){var block={newline:\/^\\n+\/,code:\/^( {4}[^\\n]+\\n*)+\/,fences:noop,hr:\/^( *[-*_/;"	p	class:_Markdown_marked.inline
+codespan	qcm/qcm.js	/^	(function(){var block={newline:\/^\\n+\/,code:\/^( {4}[^\\n]+\\n*)+\/,fences:noop,hr:\/^( *[-*_/;"	m	class:Renderer
+computeBinomial	qcm/src/Qcm.elm	/^computeBinomial t k n s =$/;"	f
+computePr	qcm/src/Qcm.elm	/^computePr precision nbQ k n note =$/;"	f
+cs	qcm/qcm.js	/^	cs: $elm$core$Maybe$Nothing,$/;"	p	class:$elm_explorations$markdown$Markdown$defaultOptions
+def	qcm/qcm.js	/^	(function(){var block={newline:\/^\\n+\/,code:\/^( {4}[^\\n]+\\n*)+\/,fences:noop,hr:\/^( *[-*_/;"	p	class:_Markdown_marked.block
+defaults	qcm/qcm.js	/^	(function(){var block={newline:\/^\\n+\/,code:\/^( {4}[^\\n]+\\n*)+\/,fences:noop,hr:\/^( *[-*_/;"	c	class:marked
+del	qcm/qcm.js	/^	(function(){var block={newline:\/^\\n+\/,code:\/^( {4}[^\\n]+\\n*)+\/,fences:noop,hr:\/^( *[-*_/;"	m	class:Renderer
+del	qcm/qcm.js	/^	(function(){var block={newline:\/^\\n+\/,code:\/^( {4}[^\\n]+\\n*)+\/,fences:noop,hr:\/^( *[-*_/;"	p	class:_Markdown_marked.inline
+dependencies	qcm/elm-stuff/generated-code/elm-community/elm-test/0.19.1-revision7/elm.json	/^    "dependencies": {$/;"	o
+dependencies	qcm/elm.json	/^    "dependencies": {$/;"	o
+description1	qcm/src/Qcm.elm	/^description1 =$/;"	f
+description2	qcm/src/Qcm.elm	/^description2 =$/;"	f
+direct	qcm/elm-stuff/generated-code/elm-community/elm-test/0.19.1-revision7/dependencies.2cb00706e77346fd4bd8db68e575b86998853bea08ebdd49aa7da2b8ace8d4e7.json	/^{"direct":{"elm\/browser":"1.0.2","elm\/core":"1.0.5","elm\/html":"1.0.0","elm\/json":"1.1.3","e/;"	o
+direct	qcm/elm-stuff/generated-code/elm-community/elm-test/0.19.1-revision7/dependencies.73fd1f656b3ca8f2e607626f4bef16c6fd6e82129c87e373465778a3f5179cf9.json	/^{"direct":{"elm\/browser":"1.0.2","elm\/core":"1.0.5","elm\/html":"1.0.0","elm\/json":"1.1.3","e/;"	o
+direct	qcm/elm-stuff/generated-code/elm-community/elm-test/0.19.1-revision7/dependencies.7c341f3421c53fd078ebfcbbcadf006b2e2608796f3f8226a027b90c0df9fa2f.json	/^{"direct":{"elm\/browser":"1.0.2","elm\/core":"1.0.5","elm\/html":"1.0.0","elm\/json":"1.1.3","e/;"	o
+direct	qcm/elm-stuff/generated-code/elm-community/elm-test/0.19.1-revision7/elm.json	/^        "direct": {$/;"	o	object:dependencies
+direct	qcm/elm-stuff/generated-code/elm-community/elm-test/0.19.1-revision7/elm.json	/^        "direct": {},$/;"	o	object:test-dependencies
+direct	qcm/elm.json	/^        "direct": {$/;"	o	object:dependencies
+direct	qcm/elm.json	/^        "direct": {},$/;"	o	object:test-dependencies
+distribution1	qcm/src/Qcm.elm	/^distribution1 =$/;"	f
+distribution2	qcm/src/Qcm.elm	/^distribution2 =$/;"	f
+dk	qcm/qcm.js	/^	dk: $elm$core$Maybe$Just($/;"	p	class:$elm_explorations$markdown$Markdown$defaultOptions
+done	qcm/qcm.js	/^	(function(){var block={newline:\/^\\n+\/,code:\/^( {4}[^\\n]+\\n*)+\/,fences:noop,hr:\/^( *[-*_/;"	f	function:marked
+dw	qcm/qcm.js	/^	dw: true,$/;"	p	class:$elm_explorations$markdown$Markdown$defaultOptions
+dx	qcm/qcm.js	/^	dx: false$/;"	p	class:$elm_explorations$markdown$Markdown$defaultOptions
+e	qcm/qcm.js	/^		e: _Platform_outgoingPortMap,$/;"	p	class:_Platform_outgoingPort._Platform_effectManagers
+e	qcm/qcm.js	/^		e: _Scheduler_guid++,$/;"	p	class:_Scheduler_rawSpawn.proc
+elm-explorations/markdown	qcm/elm-stuff/generated-code/elm-community/elm-test/0.19.1-revision7/dependencies.2cb00706e77346fd4bd8db68e575b86998853bea08ebdd49aa7da2b8ace8d4e7.json	/^{"direct":{"elm\/browser":"1.0.2","elm\/core":"1.0.5","elm\/html":"1.0.0","elm\/json":"1.1.3","e/;"	s	object:direct
+elm-explorations/markdown	qcm/elm-stuff/generated-code/elm-community/elm-test/0.19.1-revision7/elm.json	/^            "elm-explorations\/markdown": "1.0.0",$/;"	s	object:dependencies.direct
+elm-explorations/markdown	qcm/elm.json	/^            "elm-explorations\/markdown": "1.0.0",$/;"	s	object:dependencies.direct
+elm-version	qcm/elm-stuff/generated-code/elm-community/elm-test/0.19.1-revision7/elm.json	/^    "elm-version": "0.19.1",$/;"	s
+elm-version	qcm/elm.json	/^    "elm-version": "0.19.1",$/;"	s
+elm/browser	qcm/elm-stuff/generated-code/elm-community/elm-test/0.19.1-revision7/dependencies.2cb00706e77346fd4bd8db68e575b86998853bea08ebdd49aa7da2b8ace8d4e7.json	/^{"direct":{"elm\/browser":"1.0.2","elm\/core":"1.0.5","elm\/html":"1.0.0","elm\/json":"1.1.3","e/;"	s	object:direct
+elm/browser	qcm/elm-stuff/generated-code/elm-community/elm-test/0.19.1-revision7/dependencies.73fd1f656b3ca8f2e607626f4bef16c6fd6e82129c87e373465778a3f5179cf9.json	/^{"direct":{"elm\/browser":"1.0.2","elm\/core":"1.0.5","elm\/html":"1.0.0","elm\/json":"1.1.3","e/;"	s	object:direct
+elm/browser	qcm/elm-stuff/generated-code/elm-community/elm-test/0.19.1-revision7/dependencies.7c341f3421c53fd078ebfcbbcadf006b2e2608796f3f8226a027b90c0df9fa2f.json	/^{"direct":{"elm\/browser":"1.0.2","elm\/core":"1.0.5","elm\/html":"1.0.0","elm\/json":"1.1.3","e/;"	s	object:direct
+elm/browser	qcm/elm-stuff/generated-code/elm-community/elm-test/0.19.1-revision7/elm.json	/^            "elm\/browser": "1.0.2",$/;"	s	object:dependencies.direct
+elm/browser	qcm/elm.json	/^            "elm\/browser": "1.0.2",$/;"	s	object:dependencies.direct
+elm/core	qcm/elm-stuff/generated-code/elm-community/elm-test/0.19.1-revision7/dependencies.2cb00706e77346fd4bd8db68e575b86998853bea08ebdd49aa7da2b8ace8d4e7.json	/^{"direct":{"elm\/browser":"1.0.2","elm\/core":"1.0.5","elm\/html":"1.0.0","elm\/json":"1.1.3","e/;"	s	object:direct
+elm/core	qcm/elm-stuff/generated-code/elm-community/elm-test/0.19.1-revision7/dependencies.73fd1f656b3ca8f2e607626f4bef16c6fd6e82129c87e373465778a3f5179cf9.json	/^{"direct":{"elm\/browser":"1.0.2","elm\/core":"1.0.5","elm\/html":"1.0.0","elm\/json":"1.1.3","e/;"	s	object:direct
+elm/core	qcm/elm-stuff/generated-code/elm-community/elm-test/0.19.1-revision7/dependencies.7c341f3421c53fd078ebfcbbcadf006b2e2608796f3f8226a027b90c0df9fa2f.json	/^{"direct":{"elm\/browser":"1.0.2","elm\/core":"1.0.5","elm\/html":"1.0.0","elm\/json":"1.1.3","e/;"	s	object:direct
+elm/core	qcm/elm-stuff/generated-code/elm-community/elm-test/0.19.1-revision7/elm.json	/^            "elm\/core": "1.0.5",$/;"	s	object:dependencies.direct
+elm/core	qcm/elm.json	/^            "elm\/core": "1.0.5",$/;"	s	object:dependencies.direct
+elm/html	qcm/elm-stuff/generated-code/elm-community/elm-test/0.19.1-revision7/dependencies.2cb00706e77346fd4bd8db68e575b86998853bea08ebdd49aa7da2b8ace8d4e7.json	/^{"direct":{"elm\/browser":"1.0.2","elm\/core":"1.0.5","elm\/html":"1.0.0","elm\/json":"1.1.3","e/;"	s	object:direct
+elm/html	qcm/elm-stuff/generated-code/elm-community/elm-test/0.19.1-revision7/dependencies.73fd1f656b3ca8f2e607626f4bef16c6fd6e82129c87e373465778a3f5179cf9.json	/^{"direct":{"elm\/browser":"1.0.2","elm\/core":"1.0.5","elm\/html":"1.0.0","elm\/json":"1.1.3","e/;"	s	object:direct
+elm/html	qcm/elm-stuff/generated-code/elm-community/elm-test/0.19.1-revision7/dependencies.7c341f3421c53fd078ebfcbbcadf006b2e2608796f3f8226a027b90c0df9fa2f.json	/^{"direct":{"elm\/browser":"1.0.2","elm\/core":"1.0.5","elm\/html":"1.0.0","elm\/json":"1.1.3","e/;"	s	object:direct
+elm/html	qcm/elm-stuff/generated-code/elm-community/elm-test/0.19.1-revision7/elm.json	/^            "elm\/html": "1.0.0",$/;"	s	object:dependencies.direct
+elm/html	qcm/elm.json	/^            "elm\/html": "1.0.0",$/;"	s	object:dependencies.direct
+elm/json	qcm/elm-stuff/generated-code/elm-community/elm-test/0.19.1-revision7/dependencies.2cb00706e77346fd4bd8db68e575b86998853bea08ebdd49aa7da2b8ace8d4e7.json	/^{"direct":{"elm\/browser":"1.0.2","elm\/core":"1.0.5","elm\/html":"1.0.0","elm\/json":"1.1.3","e/;"	s	object:direct
+elm/json	qcm/elm-stuff/generated-code/elm-community/elm-test/0.19.1-revision7/dependencies.73fd1f656b3ca8f2e607626f4bef16c6fd6e82129c87e373465778a3f5179cf9.json	/^{"direct":{"elm\/browser":"1.0.2","elm\/core":"1.0.5","elm\/html":"1.0.0","elm\/json":"1.1.3","e/;"	s	object:direct
+elm/json	qcm/elm-stuff/generated-code/elm-community/elm-test/0.19.1-revision7/dependencies.7c341f3421c53fd078ebfcbbcadf006b2e2608796f3f8226a027b90c0df9fa2f.json	/^{"direct":{"elm\/browser":"1.0.2","elm\/core":"1.0.5","elm\/html":"1.0.0","elm\/json":"1.1.3","e/;"	s	object:direct
+elm/json	qcm/elm-stuff/generated-code/elm-community/elm-test/0.19.1-revision7/elm.json	/^            "elm\/json": "1.1.3",$/;"	s	object:dependencies.direct
+elm/json	qcm/elm.json	/^            "elm\/json": "1.1.3",$/;"	s	object:dependencies.direct
+elm/random	qcm/elm-stuff/generated-code/elm-community/elm-test/0.19.1-revision7/dependencies.2cb00706e77346fd4bd8db68e575b86998853bea08ebdd49aa7da2b8ace8d4e7.json	/^{"direct":{"elm\/browser":"1.0.2","elm\/core":"1.0.5","elm\/html":"1.0.0","elm\/json":"1.1.3","e/;"	s	object:direct
+elm/random	qcm/elm-stuff/generated-code/elm-community/elm-test/0.19.1-revision7/dependencies.73fd1f656b3ca8f2e607626f4bef16c6fd6e82129c87e373465778a3f5179cf9.json	/^{"direct":{"elm\/browser":"1.0.2","elm\/core":"1.0.5","elm\/html":"1.0.0","elm\/json":"1.1.3","e/;"	s	object:direct
+elm/random	qcm/elm-stuff/generated-code/elm-community/elm-test/0.19.1-revision7/dependencies.7c341f3421c53fd078ebfcbbcadf006b2e2608796f3f8226a027b90c0df9fa2f.json	/^{"direct":{"elm\/browser":"1.0.2","elm\/core":"1.0.5","elm\/html":"1.0.0","elm\/json":"1.1.3","e/;"	s	object:direct
+elm/random	qcm/elm-stuff/generated-code/elm-community/elm-test/0.19.1-revision7/elm.json	/^            "elm\/random": "1.0.0",$/;"	s	object:dependencies.direct
+elm/random	qcm/elm.json	/^            "elm\/random": "1.0.0",$/;"	s	object:dependencies.direct
+elm/time	qcm/elm-stuff/generated-code/elm-community/elm-test/0.19.1-revision7/dependencies.2cb00706e77346fd4bd8db68e575b86998853bea08ebdd49aa7da2b8ace8d4e7.json	/^{"direct":{"elm\/browser":"1.0.2","elm\/core":"1.0.5","elm\/html":"1.0.0","elm\/json":"1.1.3","e/;"	s	object:direct
+elm/time	qcm/elm-stuff/generated-code/elm-community/elm-test/0.19.1-revision7/dependencies.73fd1f656b3ca8f2e607626f4bef16c6fd6e82129c87e373465778a3f5179cf9.json	/^{"direct":{"elm\/browser":"1.0.2","elm\/core":"1.0.5","elm\/html":"1.0.0","elm\/json":"1.1.3","e/;"	s	object:direct
+elm/time	qcm/elm-stuff/generated-code/elm-community/elm-test/0.19.1-revision7/dependencies.7c341f3421c53fd078ebfcbbcadf006b2e2608796f3f8226a027b90c0df9fa2f.json	/^{"direct":{"elm\/browser":"1.0.2","elm\/core":"1.0.5","elm\/html":"1.0.0","elm\/json":"1.1.3","e/;"	s	object:direct
+elm/time	qcm/elm-stuff/generated-code/elm-community/elm-test/0.19.1-revision7/elm.json	/^            "elm\/time": "1.0.0",$/;"	s	object:dependencies.direct
+elm/time	qcm/elm.json	/^            "elm\/time": "1.0.0",$/;"	s	object:dependencies.indirect
+elm/url	qcm/elm-stuff/generated-code/elm-community/elm-test/0.19.1-revision7/dependencies.2cb00706e77346fd4bd8db68e575b86998853bea08ebdd49aa7da2b8ace8d4e7.json	/^{"direct":{"elm\/browser":"1.0.2","elm\/core":"1.0.5","elm\/html":"1.0.0","elm\/json":"1.1.3","e/;"	s	object:indirect
+elm/url	qcm/elm-stuff/generated-code/elm-community/elm-test/0.19.1-revision7/dependencies.73fd1f656b3ca8f2e607626f4bef16c6fd6e82129c87e373465778a3f5179cf9.json	/^{"direct":{"elm\/browser":"1.0.2","elm\/core":"1.0.5","elm\/html":"1.0.0","elm\/json":"1.1.3","e/;"	s	object:indirect
+elm/url	qcm/elm-stuff/generated-code/elm-community/elm-test/0.19.1-revision7/dependencies.7c341f3421c53fd078ebfcbbcadf006b2e2608796f3f8226a027b90c0df9fa2f.json	/^{"direct":{"elm\/browser":"1.0.2","elm\/core":"1.0.5","elm\/html":"1.0.0","elm\/json":"1.1.3","e/;"	s	object:indirect
+elm/url	qcm/elm-stuff/generated-code/elm-community/elm-test/0.19.1-revision7/elm.json	/^            "elm\/url": "1.0.0",$/;"	s	object:dependencies.indirect
+elm/url	qcm/elm.json	/^            "elm\/url": "1.0.0",$/;"	s	object:dependencies.indirect
+elm/virtual-dom	qcm/elm-stuff/generated-code/elm-community/elm-test/0.19.1-revision7/dependencies.2cb00706e77346fd4bd8db68e575b86998853bea08ebdd49aa7da2b8ace8d4e7.json	/^{"direct":{"elm\/browser":"1.0.2","elm\/core":"1.0.5","elm\/html":"1.0.0","elm\/json":"1.1.3","e/;"	s	object:indirect
+elm/virtual-dom	qcm/elm-stuff/generated-code/elm-community/elm-test/0.19.1-revision7/dependencies.73fd1f656b3ca8f2e607626f4bef16c6fd6e82129c87e373465778a3f5179cf9.json	/^{"direct":{"elm\/browser":"1.0.2","elm\/core":"1.0.5","elm\/html":"1.0.0","elm\/json":"1.1.3","e/;"	s	object:indirect
+elm/virtual-dom	qcm/elm-stuff/generated-code/elm-community/elm-test/0.19.1-revision7/dependencies.7c341f3421c53fd078ebfcbbcadf006b2e2608796f3f8226a027b90c0df9fa2f.json	/^{"direct":{"elm\/browser":"1.0.2","elm\/core":"1.0.5","elm\/html":"1.0.0","elm\/json":"1.1.3","e/;"	s	object:indirect
+elm/virtual-dom	qcm/elm-stuff/generated-code/elm-community/elm-test/0.19.1-revision7/elm.json	/^            "elm\/virtual-dom": "1.0.2"$/;"	s	object:dependencies.indirect
+elm/virtual-dom	qcm/elm.json	/^            "elm\/virtual-dom": "1.0.2"$/;"	s	object:dependencies.indirect
+elm_event_node_ref	qcm/qcm.js	/^				domNode.elm_event_node_ref = { j: patch.s, p: patch.u };$/;"	c	class:domNode
+em	qcm/qcm.js	/^	(function(){var block={newline:\/^\\n+\/,code:\/^( {4}[^\\n]+\\n*)+\/,fences:noop,hr:\/^( *[-*_/;"	m	class:Renderer
+em	qcm/qcm.js	/^	(function(){var block={newline:\/^\\n+\/,code:\/^( {4}[^\\n]+\\n*)+\/,fences:noop,hr:\/^( *[-*_/;"	p	class:_Markdown_marked.inline
+em	qcm/src/desc2.ml	/^class="math inline"><em>p<\/em><\/span> qui est intérssante : elle$/;"	c
+em	qcm/src/desc2.ml	/^obtenue, <span class="math inline"><em>t<\/em><\/span> le nombre total de$/;"	c
+em	qcm/src/desc2.ml	/^paramètre <span class="math inline"><em>p<\/em><\/span> ne prend qu’un$/;"	c
+encodeH	qcm/src/Qcm.elm	/^encodeH d =$/;"	f
+encodeHP	qcm/src/Qcm.elm	/^encodeHP nbQ note precision =$/;"	f
+encodePlot	qcm/src/Qcm.elm	/^encodePlot vs =$/;"	f
+encodeTheorie	qcm/src/Qcm.elm	/^encodeTheorie n p =$/;"	f
+entry	qcm/qcm.js	/^		entry = {$/;"	c	class:_VirtualDom_insertNode
+escape	qcm/qcm.js	/^	(function(){var block={newline:\/^\\n+\/,code:\/^( {4}[^\\n]+\\n*)+\/,fences:noop,hr:\/^( *[-*_/;"	f
+escape	qcm/qcm.js	/^	(function(){var block={newline:\/^\\n+\/,code:\/^( {4}[^\\n]+\\n*)+\/,fences:noop,hr:\/^( *[-*_/;"	p	class:_Markdown_marked.inline
+f	qcm/qcm.js	/^		f: _Platform_incomingPortMap,$/;"	p	class:_Platform_incomingPort._Platform_effectManagers
+f	qcm/qcm.js	/^		f: task,$/;"	p	class:_Scheduler_rawSpawn.proc
+fences	qcm/qcm.js	/^	(function(){var block={newline:\/^\\n+\/,code:\/^( {4}[^\\n]+\\n*)+\/,fences:noop,hr:\/^( *[-*_/;"	p	class:_Markdown_marked.block
+flags	qcm/qcm.js	/^	(function(){var block={newline:\/^\\n+\/,code:\/^( {4}[^\\n]+\\n*)+\/,fences:noop,hr:\/^( *[-*_/;"	c	class:Parser.tok
+form1	qcm/src/Qcm.elm	/^form1 model =$/;"	f
+form2	qcm/src/Qcm.elm	/^form2 model =$/;"	f
+g	qcm/qcm.js	/^			proc.g = {$/;"	c	class:proc
+g	qcm/qcm.js	/^		g: null,$/;"	p	class:_Scheduler_rawSpawn.proc
+g	qcm/qcm.js	/^		g: sendToApp,$/;"	p	class:_Platform_instantiateManager.router
+gfm	qcm/qcm.js	/^	(function(){var block={newline:\/^\\n+\/,code:\/^( {4}[^\\n]+\\n*)+\/,fences:noop,hr:\/^( *[-*_/;"	p	class:marked.defaults
+h	qcm/qcm.js	/^		h: []$/;"	p	class:_Scheduler_rawSpawn.proc
+h	qcm/qcm.js	/^		h: undefined$/;"	p	class:_Platform_instantiateManager.router
+handler	qcm/qcm.js	/^		function handler(event)	{ _Scheduler_rawSpawn(sendToSelf(event)); }$/;"	f	function:AnonymousFunctiond3436d81c100.AnonymousFunctiond3436d81c200
+header	qcm/qcm.js	/^	(function(){var block={newline:\/^\\n+\/,code:\/^( {4}[^\\n]+\\n*)+\/,fences:noop,hr:\/^( *[-*_/;"	p	class:Parser.tok.flags
+header	qcm/qcm.js	/^	(function(){var block={newline:\/^\\n+\/,code:\/^( {4}[^\\n]+\\n*)+\/,fences:noop,hr:\/^( *[-*_/;"	p	class:_Markdown_marked.item
+headerPrefix	qcm/qcm.js	/^	(function(){var block={newline:\/^\\n+\/,code:\/^( {4}[^\\n]+\\n*)+\/,fences:noop,hr:\/^( *[-*_/;"	p	class:marked.defaults
+heading	qcm/qcm.js	/^	(function(){var block={newline:\/^\\n+\/,code:\/^( {4}[^\\n]+\\n*)+\/,fences:noop,hr:\/^( *[-*_/;"	m	class:Renderer
+heading	qcm/qcm.js	/^	(function(){var block={newline:\/^\\n+\/,code:\/^( {4}[^\\n]+\\n*)+\/,fences:noop,hr:\/^( *[-*_/;"	p	class:_Markdown_marked.block
+highlight	qcm/qcm.js	/^	(function(){var block={newline:\/^\\n+\/,code:\/^( {4}[^\\n]+\\n*)+\/,fences:noop,hr:\/^( *[-*_/;"	p	class:marked.defaults
+histogram	qcm/src/Qcm.elm	/^histogram notes =$/;"	f
+hr	qcm/qcm.js	/^	(function(){var block={newline:\/^\\n+\/,code:\/^( {4}[^\\n]+\\n*)+\/,fences:noop,hr:\/^( *[-*_/;"	m	class:Renderer
+hr	qcm/qcm.js	/^	(function(){var block={newline:\/^\\n+\/,code:\/^( {4}[^\\n]+\\n*)+\/,fences:noop,hr:\/^( *[-*_/;"	p	class:_Markdown_marked.block
+href	qcm/qcm.js	/^	(function(){var block={newline:\/^\\n+\/,code:\/^( {4}[^\\n]+\\n*)+\/,fences:noop,hr:\/^( *[-*_/;"	p	class:tokens.tokens
+html	qcm/qcm.js	/^	(function(){var block={newline:\/^\\n+\/,code:\/^( {4}[^\\n]+\\n*)+\/,fences:noop,hr:\/^( *[-*_/;"	m	class:Renderer
+html	qcm/qcm.js	/^	(function(){var block={newline:\/^\\n+\/,code:\/^( {4}[^\\n]+\\n*)+\/,fences:noop,hr:\/^( *[-*_/;"	p	class:_Markdown_marked.block
+i	qcm/qcm.js	/^				i: proc.g$/;"	p	class:proc.g
+image	qcm/qcm.js	/^	(function(){var block={newline:\/^\\n+\/,code:\/^( {4}[^\\n]+\\n*)+\/,fences:noop,hr:\/^( *[-*_/;"	m	class:Renderer
+indirect	qcm/elm-stuff/generated-code/elm-community/elm-test/0.19.1-revision7/dependencies.2cb00706e77346fd4bd8db68e575b86998853bea08ebdd49aa7da2b8ace8d4e7.json	/^{"direct":{"elm\/browser":"1.0.2","elm\/core":"1.0.5","elm\/html":"1.0.0","elm\/json":"1.1.3","e/;"	o
+indirect	qcm/elm-stuff/generated-code/elm-community/elm-test/0.19.1-revision7/dependencies.73fd1f656b3ca8f2e607626f4bef16c6fd6e82129c87e373465778a3f5179cf9.json	/^{"direct":{"elm\/browser":"1.0.2","elm\/core":"1.0.5","elm\/html":"1.0.0","elm\/json":"1.1.3","e/;"	o
+indirect	qcm/elm-stuff/generated-code/elm-community/elm-test/0.19.1-revision7/dependencies.7c341f3421c53fd078ebfcbbcadf006b2e2608796f3f8226a027b90c0df9fa2f.json	/^{"direct":{"elm\/browser":"1.0.2","elm\/core":"1.0.5","elm\/html":"1.0.0","elm\/json":"1.1.3","e/;"	o
+indirect	qcm/elm-stuff/generated-code/elm-community/elm-test/0.19.1-revision7/elm.json	/^        "indirect": {$/;"	o	object:dependencies
+indirect	qcm/elm-stuff/generated-code/elm-community/elm-test/0.19.1-revision7/elm.json	/^        "indirect": {}$/;"	o	object:test-dependencies
+indirect	qcm/elm.json	/^        "indirect": {$/;"	o	object:dependencies
+indirect	qcm/elm.json	/^        "indirect": {}$/;"	o	object:test-dependencies
+init	qcm/src/Qcm.elm	/^init _ =$/;"	f
+inline	qcm/qcm.js	/^	(function(){var block={newline:\/^\\n+\/,code:\/^( {4}[^\\n]+\\n*)+\/,fences:noop,hr:\/^( *[-*_/;"	c	class:_Markdown_marked
+introduction	qcm/qcm.js	/^					var introduction = function () {$/;"	f	function:AnonymousFunctiond3436d81fb00
+isSimple	qcm/qcm.js	/^					var isSimple = function () {$/;"	f	function:AnonymousFunctiond3436d81fb00
+item	qcm/qcm.js	/^	(function(){var block={newline:\/^\\n+\/,code:\/^( {4}[^\\n]+\\n*)+\/,fences:noop,hr:\/^( *[-*_/;"	c	class:_Markdown_marked
+j	qcm/qcm.js	/^				domNode.elm_event_node_ref = { j: patch.s, p: patch.u };$/;"	p	class:domNode.elm_event_node_ref
+j	qcm/qcm.js	/^		var subEventRoot = { j: tagger, p: eventNode };$/;"	p	class:_VirtualDom_render.subEventRoot
+k	qcm/src/desc2.ml	/^\\frac{k}{n}$<\/span> pour <span class="math inline">$k \\\\in$/;"	c
+key	qcm/qcm.js	/^	var key = function() { key.a(onUrlChange(_Browser_getUrl())); };$/;"	f	function:_Browser_application
+langPrefix	qcm/qcm.js	/^	(function(){var block={newline:\/^\\n+\/,code:\/^( {4}[^\\n]+\\n*)+\/,fences:noop,hr:\/^( *[-*_/;"	p	class:marked.defaults
+lex	qcm/qcm.js	/^	(function(){var block={newline:\/^\\n+\/,code:\/^( {4}[^\\n]+\\n*)+\/,fences:noop,hr:\/^( *[-*_/;"	f	function:Lexer
+lex	qcm/qcm.js	/^	(function(){var block={newline:\/^\\n+\/,code:\/^( {4}[^\\n]+\\n*)+\/,fences:noop,hr:\/^( *[-*_/;"	m	class:Lexer
+lheading	qcm/qcm.js	/^	(function(){var block={newline:\/^\\n+\/,code:\/^( {4}[^\\n]+\\n*)+\/,fences:noop,hr:\/^( *[-*_/;"	p	class:_Markdown_marked.block
+link	qcm/qcm.js	/^	(function(){var block={newline:\/^\\n+\/,code:\/^( {4}[^\\n]+\\n*)+\/,fences:noop,hr:\/^( *[-*_/;"	m	class:Renderer
+link	qcm/qcm.js	/^	(function(){var block={newline:\/^\\n+\/,code:\/^( {4}[^\\n]+\\n*)+\/,fences:noop,hr:\/^( *[-*_/;"	p	class:_Markdown_marked.inline
+list	qcm/qcm.js	/^	(function(){var block={newline:\/^\\n+\/,code:\/^( {4}[^\\n]+\\n*)+\/,fences:noop,hr:\/^( *[-*_/;"	m	class:Renderer
+list	qcm/qcm.js	/^	(function(){var block={newline:\/^\\n+\/,code:\/^( {4}[^\\n]+\\n*)+\/,fences:noop,hr:\/^( *[-*_/;"	p	class:_Markdown_marked.block
+listitem	qcm/qcm.js	/^	(function(){var block={newline:\/^\\n+\/,code:\/^( {4}[^\\n]+\\n*)+\/,fences:noop,hr:\/^( *[-*_/;"	m	class:Renderer
+loop	qcm/qcm.js	/^	function loop(state)$/;"	f	function:_Platform_instantiateManager
+lotSimulations	qcm/src/Qcm.elm	/^lotSimulations n p =$/;"	f
+main	qcm/index.html	/^<div id="main"><\/div>$/;"	I
+main	qcm/src/Qcm.elm	/^main =$/;"	f
+mangle	qcm/qcm.js	/^	(function(){var block={newline:\/^\\n+\/,code:\/^( {4}[^\\n]+\\n*)+\/,fences:noop,hr:\/^( *[-*_/;"	m	class:InlineLexer
+mangle	qcm/qcm.js	/^	(function(){var block={newline:\/^\\n+\/,code:\/^( {4}[^\\n]+\\n*)+\/,fences:noop,hr:\/^( *[-*_/;"	p	class:marked.defaults
+marked	qcm/qcm.js	/^	(function(){var block={newline:\/^\\n+\/,code:\/^( {4}[^\\n]+\\n*)+\/,fences:noop,hr:\/^( *[-*_/;"	f
+merge	qcm/qcm.js	/^	(function(){var block={newline:\/^\\n+\/,code:\/^( {4}[^\\n]+\\n*)+\/,fences:noop,hr:\/^( *[-*_/;"	f
+nbSimulations	qcm/src/Qcm.elm	/^nbSimulations =$/;"	f
+newline	qcm/qcm.js	/^	(function(){var block={newline:\/^\\n+\/,code:\/^( {4}[^\\n]+\\n*)+\/,fences:noop,hr:\/^( *[-*_/;"	p	class:_Markdown_marked.block
+next	qcm/qcm.js	/^	(function(){var block={newline:\/^\\n+\/,code:\/^( {4}[^\\n]+\\n*)+\/,fences:noop,hr:\/^( *[-*_/;"	m	class:Parser
+nolink	qcm/qcm.js	/^	(function(){var block={newline:\/^\\n+\/,code:\/^( {4}[^\\n]+\\n*)+\/,fences:noop,hr:\/^( *[-*_/;"	p	class:_Markdown_marked.inline
+noop	qcm/qcm.js	/^	(function(){var block={newline:\/^\\n+\/,code:\/^( {4}[^\\n]+\\n*)+\/,fences:noop,hr:\/^( *[-*_/;"	f
+norm	qcm/src/Qcm.elm	/^        norm =$/;"	f	function:computePr
+nptable	qcm/qcm.js	/^	(function(){var block={newline:\/^\\n+\/,code:\/^( {4}[^\\n]+\\n*)+\/,fences:noop,hr:\/^( *[-*_/;"	p	class:_Markdown_marked.block
+offset_	qcm/qcm.js	/^	var offset_ = function (m) {$/;"	f	function:$rundis$elm_bootstrap$Bootstrap$Grid$Internal$offsetsToAttributes
+oneAnswer	qcm/src/Qcm.elm	/^oneAnswer p =$/;"	f
+order_	qcm/qcm.js	/^	var order_ = function (m) {$/;"	f	function:$rundis$elm_bootstrap$Bootstrap$Grid$Internal$orderToAttributes
+output	qcm/qcm.js	/^	(function(){var block={newline:\/^\\n+\/,code:\/^( {4}[^\\n]+\\n*)+\/,fences:noop,hr:\/^( *[-*_/;"	f	function:InlineLexer
+output	qcm/qcm.js	/^	(function(){var block={newline:\/^\\n+\/,code:\/^( {4}[^\\n]+\\n*)+\/,fences:noop,hr:\/^( *[-*_/;"	m	class:InlineLexer
+outputLink	qcm/qcm.js	/^	(function(){var block={newline:\/^\\n+\/,code:\/^( {4}[^\\n]+\\n*)+\/,fences:noop,hr:\/^( *[-*_/;"	m	class:InlineLexer
+p	qcm/qcm.js	/^				domNode.elm_event_node_ref = { j: patch.s, p: patch.u };$/;"	p	class:domNode.elm_event_node_ref
+p	qcm/qcm.js	/^		var subEventRoot = { j: tagger, p: eventNode };$/;"	p	class:_VirtualDom_render.subEventRoot
+paragraph	qcm/qcm.js	/^	(function(){var block={newline:\/^\\n+\/,code:\/^( {4}[^\\n]+\\n*)+\/,fences:noop,hr:\/^( *[-*_/;"	m	class:Renderer
+paragraph	qcm/qcm.js	/^	(function(){var block={newline:\/^\\n+\/,code:\/^( {4}[^\\n]+\\n*)+\/,fences:noop,hr:\/^( *[-*_/;"	p	class:_Markdown_marked.block
+parse	qcm/qcm.js	/^	(function(){var block={newline:\/^\\n+\/,code:\/^( {4}[^\\n]+\\n*)+\/,fences:noop,hr:\/^( *[-*_/;"	f	function:Parser
+parse	qcm/qcm.js	/^	(function(){var block={newline:\/^\\n+\/,code:\/^( {4}[^\\n]+\\n*)+\/,fences:noop,hr:\/^( *[-*_/;"	m	class:Parser
+parseText	qcm/qcm.js	/^	(function(){var block={newline:\/^\\n+\/,code:\/^( {4}[^\\n]+\\n*)+\/,fences:noop,hr:\/^( *[-*_/;"	m	class:Parser
+patch	qcm/qcm.js	/^	var patch = {$/;"	c	class:_VirtualDom_pushPatch
+pedantic	qcm/qcm.js	/^	(function(){var block={newline:\/^\\n+\/,code:\/^( {4}[^\\n]+\\n*)+\/,fences:noop,hr:\/^( *[-*_/;"	p	class:marked.defaults
+peek	qcm/qcm.js	/^	(function(){var block={newline:\/^\\n+\/,code:\/^( {4}[^\\n]+\\n*)+\/,fences:noop,hr:\/^( *[-*_/;"	m	class:Parser
+proc	qcm/qcm.js	/^	var proc = {$/;"	c	class:_Scheduler_rawSpawn
+pull_	qcm/qcm.js	/^	var pull_ = function (m) {$/;"	f	function:$rundis$elm_bootstrap$Bootstrap$Grid$Internal$pullsToAttributes
+push_	qcm/qcm.js	/^	var push_ = function (m) {$/;"	f	function:$rundis$elm_bootstrap$Bootstrap$Grid$Internal$pushesToAttributes
+qcm	qcm/src/Qcm.elm	/^                        qcm =$/;"	f	function:update
+r	qcm/qcm.js	/^			r: index,$/;"	p	class:_VirtualDom_removeNode.changes
+r	qcm/qcm.js	/^			r: yIndex,$/;"	p	class:_VirtualDom_insertNode.entry
+r	qcm/qcm.js	/^		r: index,$/;"	p	class:_VirtualDom_pushPatch.patch
+reflink	qcm/qcm.js	/^	(function(){var block={newline:\/^\\n+\/,code:\/^( {4}[^\\n]+\\n*)+\/,fences:noop,hr:\/^( *[-*_/;"	p	class:_Markdown_marked.inline
+removeEventListener	qcm/qcm.js	/^var _Browser_fakeNode = { addEventListener: function() {}, removeEventListener: function() {} };$/;"	m	class:_Browser_fakeNode
+renderPlot	qcm/src/Qcm.elm	/^port renderPlot : E.Value -> Cmd msg$/;"	p
+renderPlot2	qcm/src/Qcm.elm	/^port renderPlot2 : E.Value -> Cmd msg$/;"	p
+renderer	qcm/qcm.js	/^	(function(){var block={newline:\/^\\n+\/,code:\/^( {4}[^\\n]+\\n*)+\/,fences:noop,hr:\/^( *[-*_/;"	p	class:marked.defaults
+replace	qcm/qcm.js	/^	(function(){var block={newline:\/^\\n+\/,code:\/^( {4}[^\\n]+\\n*)+\/,fences:noop,hr:\/^( *[-*_/;"	f
+router	qcm/qcm.js	/^	var router = {$/;"	c	class:_Platform_instantiateManager
+rundis/elm-bootstrap	qcm/elm-stuff/generated-code/elm-community/elm-test/0.19.1-revision7/dependencies.2cb00706e77346fd4bd8db68e575b86998853bea08ebdd49aa7da2b8ace8d4e7.json	/^{"direct":{"elm\/browser":"1.0.2","elm\/core":"1.0.5","elm\/html":"1.0.0","elm\/json":"1.1.3","e/;"	s	object:direct
+rundis/elm-bootstrap	qcm/elm-stuff/generated-code/elm-community/elm-test/0.19.1-revision7/dependencies.7c341f3421c53fd078ebfcbbcadf006b2e2608796f3f8226a027b90c0df9fa2f.json	/^{"direct":{"elm\/browser":"1.0.2","elm\/core":"1.0.5","elm\/html":"1.0.0","elm\/json":"1.1.3","e/;"	s	object:direct
+rundis/elm-bootstrap	qcm/elm-stuff/generated-code/elm-community/elm-test/0.19.1-revision7/elm.json	/^            "rundis\/elm-bootstrap": "5.2.0"$/;"	s	object:dependencies.direct
+rundis/elm-bootstrap	qcm/elm.json	/^            "rundis\/elm-bootstrap": "5.2.0"$/;"	s	object:dependencies.direct
+s	qcm/qcm.js	/^			s: patch$/;"	p	class:_VirtualDom_removeNode.changes
+s	qcm/qcm.js	/^			s: undefined$/;"	p	class:_VirtualDom_insertNode.entry
+s	qcm/qcm.js	/^		entry.s.s = {$/;"	c	class:entry.s
+s	qcm/qcm.js	/^		s: data,$/;"	p	class:_VirtualDom_pushPatch.patch
+sanitize	qcm/qcm.js	/^	(function(){var block={newline:\/^\\n+\/,code:\/^( {4}[^\\n]+\\n*)+\/,fences:noop,hr:\/^( *[-*_/;"	p	class:marked.defaults
+sanitizer	qcm/qcm.js	/^	(function(){var block={newline:\/^\\n+\/,code:\/^( {4}[^\\n]+\\n*)+\/,fences:noop,hr:\/^( *[-*_/;"	p	class:marked.defaults
+self	qcm/qcm.js	/^	(function(){var block={newline:\/^\\n+\/,code:\/^( {4}[^\\n]+\\n*)+\/,fences:noop,hr:\/^( *[-*_/;"	f	function:replace
+send	qcm/qcm.js	/^	function send(incomingValue)$/;"	f	function:_Platform_setupIncomingPort
+sendToApp	qcm/qcm.js	/^	function sendToApp(msg, viewMetadata)$/;"	f	function:_Platform_initialize
+silent	qcm/qcm.js	/^	(function(){var block={newline:\/^\\n+\/,code:\/^( {4}[^\\n]+\\n*)+\/,fences:noop,hr:\/^( *[-*_/;"	p	class:marked.defaults
+simulation	qcm/src/Qcm.elm	/^simulation n p =$/;"	f
+smartLists	qcm/qcm.js	/^	(function(){var block={newline:\/^\\n+\/,code:\/^( {4}[^\\n]+\\n*)+\/,fences:noop,hr:\/^( *[-*_/;"	p	class:marked.defaults
+smartypants	qcm/qcm.js	/^	(function(){var block={newline:\/^\\n+\/,code:\/^( {4}[^\\n]+\\n*)+\/,fences:noop,hr:\/^( *[-*_/;"	m	class:InlineLexer
+smartypants	qcm/qcm.js	/^	(function(){var block={newline:\/^\\n+\/,code:\/^( {4}[^\\n]+\\n*)+\/,fences:noop,hr:\/^( *[-*_/;"	p	class:marked.defaults
+source-directories	qcm/elm-stuff/generated-code/elm-community/elm-test/0.19.1-revision7/elm.json	/^    "source-directories": [$/;"	a
+source-directories	qcm/elm.json	/^    "source-directories": [$/;"	a
+starter	qcm/qcm.js	/^							var starter = function () {$/;"	f	function:AnonymousFunctiond3436d81fb00
+strong	qcm/qcm.js	/^	(function(){var block={newline:\/^\\n+\/,code:\/^( {4}[^\\n]+\\n*)+\/,fences:noop,hr:\/^( *[-*_/;"	m	class:Renderer
+strong	qcm/qcm.js	/^	(function(){var block={newline:\/^\\n+\/,code:\/^( {4}[^\\n]+\\n*)+\/,fences:noop,hr:\/^( *[-*_/;"	p	class:_Markdown_marked.inline
+subEventRoot	qcm/qcm.js	/^		var subEventRoot = { j: tagger, p: eventNode };$/;"	c	class:_VirtualDom_render
+subscribe	qcm/qcm.js	/^	function subscribe(callback)$/;"	f	function:_Platform_setupOutgoingPort
+t	qcm/qcm.js	/^		t: undefined,$/;"	p	class:_VirtualDom_pushPatch.patch
+t	qcm/qcm.js	/^var $rundis$elm_bootstrap$Bootstrap$Form$Input$defaultOptions = {aJ: _List_Nil, aW: false, ae: $/;"	p	class:$rundis$elm_bootstrap$Bootstrap$Form$Input$defaultOptions
+table	qcm/qcm.js	/^	(function(){var block={newline:\/^\\n+\/,code:\/^( {4}[^\\n]+\\n*)+\/,fences:noop,hr:\/^( *[-*_/;"	m	class:Renderer
+table	qcm/qcm.js	/^	(function(){var block={newline:\/^\\n+\/,code:\/^( {4}[^\\n]+\\n*)+\/,fences:noop,hr:\/^( *[-*_/;"	p	class:_Markdown_marked.block
+tablecell	qcm/qcm.js	/^	(function(){var block={newline:\/^\\n+\/,code:\/^( {4}[^\\n]+\\n*)+\/,fences:noop,hr:\/^( *[-*_/;"	m	class:Renderer
+tablerow	qcm/qcm.js	/^	(function(){var block={newline:\/^\\n+\/,code:\/^( {4}[^\\n]+\\n*)+\/,fences:noop,hr:\/^( *[-*_/;"	m	class:Renderer
+tables	qcm/qcm.js	/^	(function(){var block={newline:\/^\\n+\/,code:\/^( {4}[^\\n]+\\n*)+\/,fences:noop,hr:\/^( *[-*_/;"	p	class:marked.defaults
+tag	qcm/qcm.js	/^	(function(){var block={newline:\/^\\n+\/,code:\/^( {4}[^\\n]+\\n*)+\/,fences:noop,hr:\/^( *[-*_/;"	p	class:_Markdown_marked.inline
+test-dependencies	qcm/elm-stuff/generated-code/elm-community/elm-test/0.19.1-revision7/elm.json	/^    "test-dependencies": {$/;"	o
+test-dependencies	qcm/elm.json	/^    "test-dependencies": {$/;"	o
+text	qcm/qcm.js	/^	(function(){var block={newline:\/^\\n+\/,code:\/^( {4}[^\\n]+\\n*)+\/,fences:noop,hr:\/^( *[-*_/;"	m	class:Renderer
+text	qcm/qcm.js	/^	(function(){var block={newline:\/^\\n+\/,code:\/^( {4}[^\\n]+\\n*)+\/,fences:noop,hr:\/^( *[-*_/;"	p	class:_Markdown_marked.block
+text	qcm/qcm.js	/^	(function(){var block={newline:\/^\\n+\/,code:\/^( {4}[^\\n]+\\n*)+\/,fences:noop,hr:\/^( *[-*_/;"	p	class:_Markdown_marked.inline
+title	qcm/qcm.js	/^	(function(){var block={newline:\/^\\n+\/,code:\/^( {4}[^\\n]+\\n*)+\/,fences:noop,hr:\/^( *[-*_/;"	p	class:tokens.tokens
+toHighlight	qcm/qcm.js	/^	function toHighlight(code, lang)$/;"	f	function:_Markdown_formatOptions
+tok	qcm/qcm.js	/^	(function(){var block={newline:\/^\\n+\/,code:\/^( {4}[^\\n]+\\n*)+\/,fences:noop,hr:\/^( *[-*_/;"	m	class:Parser
+token	qcm/qcm.js	/^	(function(){var block={newline:\/^\\n+\/,code:\/^( {4}[^\\n]+\\n*)+\/,fences:noop,hr:\/^( *[-*_/;"	m	class:Lexer
+tokens	qcm/qcm.js	/^	(function(){var block={newline:\/^\\n+\/,code:\/^( {4}[^\\n]+\\n*)+\/,fences:noop,hr:\/^( *[-*_/;"	c
+type	qcm/elm-stuff/generated-code/elm-community/elm-test/0.19.1-revision7/elm.json	/^    "type": "application",$/;"	s
+type	qcm/elm.json	/^    "type": "application",$/;"	s
+type	qcm/qcm.js	/^	(function(){var block={newline:\/^\\n+\/,code:\/^( {4}[^\\n]+\\n*)+\/,fences:noop,hr:\/^( *[-*_/;"	p	class:_Markdown_marked.item
+u	qcm/qcm.js	/^		u: converter,$/;"	p	class:_Platform_incomingPort._Platform_effectManagers
+u	qcm/qcm.js	/^		u: converter,$/;"	p	class:_Platform_outgoingPort._Platform_effectManagers
+u	qcm/qcm.js	/^		u: undefined$/;"	p	class:_VirtualDom_pushPatch.patch
+unescape	qcm/qcm.js	/^	(function(){var block={newline:\/^\\n+\/,code:\/^( {4}[^\\n]+\\n*)+\/,fences:noop,hr:\/^( *[-*_/;"	f
+unsubscribe	qcm/qcm.js	/^	function unsubscribe(callback)$/;"	f	function:_Platform_setupOutgoingPort
+update	qcm/src/Qcm.elm	/^update msg model =$/;"	f
+updateIfNeeded	qcm/qcm.js	/^	function updateIfNeeded()$/;"	f	function:_Browser_makeAnimator
+url	qcm/qcm.js	/^	(function(){var block={newline:\/^\\n+\/,code:\/^( {4}[^\\n]+\\n*)+\/,fences:noop,hr:\/^( *[-*_/;"	p	class:_Markdown_marked.inline
+view	qcm/src/Qcm.elm	/^view model =$/;"	f
+w	qcm/qcm.js	/^			w: subPatches,$/;"	p	class:entry.s.s
+w	qcm/qcm.js	/^var $rundis$elm_bootstrap$Bootstrap$Internal$Button$defaultOptions = {aJ: _List_Nil, aM: false, /;"	p	class:$rundis$elm_bootstrap$Bootstrap$Internal$Button$defaultOptions
+width_	qcm/qcm.js	/^	var width_ = function (w) {$/;"	f	function:$rundis$elm_bootstrap$Bootstrap$Grid$Internal$colWidthsToAttributes
+x	qcm/src/Qcm.elm	/^        x =$/;"	f	function:computePr
+xhtml	qcm/qcm.js	/^	(function(){var block={newline:\/^\\n+\/,code:\/^( {4}[^\\n]+\\n*)+\/,fences:noop,hr:\/^( *[-*_/;"	p	class:marked.defaults
+z	qcm/qcm.js	/^			z: vnode,$/;"	p	class:_VirtualDom_insertNode.entry
+z	qcm/qcm.js	/^			z: vnode,$/;"	p	class:_VirtualDom_removeNode.changes

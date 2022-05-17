@@ -262,20 +262,50 @@ computePr precision nbQ k n note =
     x / norm
 
 
+
+-- binom : Int -> Int -> Int
+-- binom n k =
+--     if k < n // 2 then
+--         let
+--             num =
+--                 List.product <| List.range (n - k + 1) n
+--             den =
+--                 List.product <| List.range 1 k
+--         in
+--         num // den
+--     else
+--         binom n (n - k)
+
+
+binomM : Dict.Dict ( Int, Int ) Int -> Int -> Int -> ( Dict.Dict ( Int, Int ) Int, Int )
+binomM mem n k =
+    case n of
+        0 ->
+            if k == 0 then
+                ( mem, 1 )
+
+            else
+                ( mem, 0 )
+
+        _ ->
+            case Dict.get ( n, k ) mem of
+                Just b ->
+                    ( mem, b )
+
+                Nothing ->
+                    let
+                        ( m1, b1 ) =
+                            binomM mem (n - 1) k
+
+                        ( _, b2 ) =
+                            binomM mem (n - 1) (k - 1)
+                    in
+                    ( Dict.insert ( n, k ) (b1 + b2) m1, b1 + b2 )
+
+
 binom : Int -> Int -> Int
 binom n k =
-    if k < n // 2 then
-        let
-            num =
-                List.product <| List.range (n - k + 1) n
-
-            den =
-                List.product <| List.range 1 k
-        in
-        num // den
-
-    else
-        binom n (n - k)
+    Tuple.second <| binomM (Dict.fromList [ ( ( 1, 1 ), 1 ) ]) n k
 
 
 bernoulli : Float -> Random.Generator Int
@@ -352,6 +382,8 @@ encodeTheorie : Int -> Float -> E.Value
 encodeTheorie n p =
     E.object
         [ ( "x", E.list E.int <| List.range 0 n )
+
+        -- , ( "y", E.list E.float <| List.map (\k -> toFloat nbSimulations * (toFloat <| binom n k) * (List.product <| List.repeat k p) * (List.product <| List.repeat (n - k) (1 - p))) <| List.range 0 n )
         , ( "y", E.list E.float <| List.map (\k -> toFloat nbSimulations * (toFloat <| binom n k) * (List.product <| List.repeat k p) * (List.product <| List.repeat (n - k) (1 - p))) <| List.range 0 n )
         , ( "type", E.string "scatter" )
         ]
@@ -368,5 +400,6 @@ port renderPlot : E.Value -> Cmd msg
 port renderPlot2 : E.Value -> Cmd msg
 
 
+nbSimulations : Int
 nbSimulations =
     5000
